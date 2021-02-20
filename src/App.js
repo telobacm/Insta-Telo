@@ -47,13 +47,13 @@ export default class App extends Component {
                     <Link to="/">
                       <img src="home.svg" alt="🏠" style={{ width: 22 }} />
                     </Link>
-                    <Link to="/direct">
+                    <Link to="/direct/">
                       <img src="dm.svg" alt="📩" style={{ width: 22 }} />
                     </Link>
-                    <Link to="/explore">
+                    <Link to="/explore/">
                       <img src="explore.svg" alt="🧭" style={{ width: 22 }} />
                     </Link>
-                    <Link to="/activity">
+                    <Link to="/activity/">
                       <img src="heart.svg" alt="💝" style={{ width: 22 }} />
                     </Link>
                   </Router>
@@ -65,17 +65,17 @@ export default class App extends Component {
                       <Link to="/accounts/edit/">
                         <img src="user.svg" alt="👦" style={{ width: 22 }} /> Profil
                       </Link>
-                      <Link to="/bookmark">
+                      <Link to="/bookmark/">
                         <img src="bookmark.svg" alt="🔖" style={{ width: 22 }} /> Disimpan
                       </Link>
-                      <Link to="/settings">
+                      <Link to="/settings/">
                         <img src="settings.svg" alt="⚙️" style={{ width: 22 }} /> Pengaturan
                       </Link>
-                      <Link to="/switch_account">
+                      <Link to="/switch_account/">
                         <img src="switch.svg" alt="🔄" style={{ width: 22 }} /> Ganti Akun
                       </Link>
                       <NavDropdown.Divider />
-                      <Link to="/log_out">Keluar</Link>
+                      <Link to="/log_out/">Keluar</Link>
                     </Router>
                   </NavDropdown>
                 </Nav>
@@ -87,22 +87,22 @@ export default class App extends Component {
           <Router history={createBrowserHistory()}>
             <Switch>
               <Route path="/" exact component={Home} />
-              <Route path="/direct" component={Direct} />
-              <Route path="/explore" component={Explore} />
-              <Route path="/activity" component={Activity} />
-              <Route path="/bookmark" component={Bookmark} />
-              <Route path="/settings" component={Settings} />
-              <Route path="/switch_account" component={SwitchAccount} />
-              <Route path="/log_out" component={logOut} />
-              <Route path="/accounts/edit" component={EditProfil} />
-              <Route path="/accounts/password" changecomponent={UbahKataSandi} />
-              <Route path="/accounts/manage_access" component={AplikasidanSitus} />
-              <Route path="/emails/settings" component={EmaildanSMS} />
-              <Route path="/push/web/settings" component={NotifikasiOtomatis} />
-              <Route path="/accounts/contact_history" component={KelolaKontak} />
-              <Route path="/accounts/privacy_and_security" component={PrivasiKeamanan} />
-              <Route path="/session/login_activity" component={AktivitasLogin} />
-              <Route path="/emails/emails_sent" component={EmailIG} />
+              <Route path="/direct/" component={Direct} />
+              <Route path="/explore/" component={Explore} />
+              <Route path="/activity/" component={Activity} />
+              <Route path="/bookmark/" component={Bookmark} />
+              <Route path="/settings/" component={Settings} />
+              <Route path="/switch_account/" component={SwitchAccount} />
+              <Route path="/log_out/" component={logOut} />
+              <Route path="/accounts/edit/" component={EditProfil} />
+              <Route path="/accounts/password/change/" component={UbahKataSandi} />
+              <Route path="/accounts/manage_access/" component={AplikasidanSitus} />
+              <Route path="/emails/settings/" component={EmaildanSMS} />
+              <Route path="/push/web/settings/" component={NotifikasiOtomatis} />
+              <Route path="/accounts/contact_history/" component={KelolaKontak} />
+              <Route path="/accounts/privacy_and_security/" component={PrivasiKeamanan} />
+              <Route path="/session/login_activity/" component={AktivitasLogin} />
+              <Route path="/emails/emails_sent/" component={EmailIG} />
             </Switch>
           </Router>
         </Container>
