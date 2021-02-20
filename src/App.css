@@ -1,0 +1,285 @@
+.header {
+  border-bottom: 1px solid #dddddd;
+  background-color: white;
+  max-height: 55px;
+}
+
+.instatelo {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+
+.search-form {
+  padding-left: 25pt;
+}
+
+.form-src {
+  padding-left: 40px;
+}
+.search {
+  font-size: small;
+  max-height: 27px;
+  max-width: 220px;
+  background-color: #f8f8f8;
+  color: #8e8e8e;
+  text-align: center;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+.options {
+  list-style-type: none;
+  background-color: white;
+  border: solid thin #dddddd;
+  border-radius: 3px;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 30px;
+  margin-bottom: 150px;
+  min-height: 550px;
+  /* max-width: 950px; */
+}
+
+.option {
+  color: black;
+  font-weight: 500;
+  min-height: 40px;
+  display: block;
+  height: 100%;
+  line-height: 20px;
+  padding: 16px 16px 16px 30px;
+  /* width: calc(100% - 48px); */
+}
+.option:hover {
+  border-left: 2px solid #d1d1d1;
+  background-color: #f8f8f8;
+  text-decoration: none;
+  color: black;
+}
+.option:active {
+  color: black;
+  border-left: 2px solid;
+  font-weight: 700;
+  text-decoration: none;
+}
+.option:current {
+  font-weight: 700;
+  border-left: 2px solid;
+}
+
+.isioption {
+  margin-top: 23px;
+}
+
+.tabskiri {
+  border-right: 1pt solid #dddddd;
+  padding: 0px 0px 0px 0px;
+}
+
+EDIT PROFIL {
+}
+
+.isikiri {
+  margin-top: 20px;
+  text-align: right;
+  font-weight: 700;
+}
+
+.form-ctrl {
+  margin-top: 20px;
+  max-width: 390px;
+  max-height: 30px;
+}
+
+.ket-form {
+  max-width: 390px;
+  color: rgb(126, 126, 126);
+  line-height: 12pt;
+}
+
+.nama-akun {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 14pt;
+}
+
+.ubah-pp {
+  font-weight: 700;
+  font-size: 11pt;
+}
+
+.text-area {
+  max-width: 390px;
+  margin-top: 20px;
+}
+
+.chk-box {
+  font-weight: 700;
+  font-size: 11pt;
+  margin-top: 20px;
+  max-width: 420px;
+}
+
+.info-pri {
+  font-weight: 700;
+  font-size: 11pt;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.btn-kirim {
+  font-size: 11pt;
+  font-weight: 700;
+  background-color: #0095f6;
+  border: none;
+  padding: 4px 9px;
+  margin-top: 20px;
+}
+.btn-kirim:hover {
+  background-color: #0095f6;
+}
+
+.btn-non {
+  font-size: 11pt;
+  font-weight: 700;
+  background-color: #ffffff;
+  color: #0095f6;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+KATA SANDI {
+}
+
+.nama-akun2 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 16pt;
+}
+
+.form-pass {
+  background-color: #f8f8f8;
+  margin-top: 20px;
+  max-width: 440px;
+  max-height: 40px;
+}
+
+APLIKASI DAN SITUS WEB {
+}
+
+.app-site-web {
+  padding: 32px 44px 35px 65px;
+}
+
+.burem {
+  color: #8e8e8e;
+}
+
+.tabs-app {
+  margin-left: 65px;
+  max-width: 600px;
+}
+
+.tab-app {
+  padding: 32px 44px 35px 65px;
+  max-width: 700px;
+}
+
+EMAIL DAN SMS {
+}
+
+.email-sms {
+  margin-left: 50px;
+}
+
+.chkbx {
+  font-weight: 700;
+  font-size: 11pt;
+}
+
+.head-setting {
+  font-size: 22px;
+}
+
+.chk-cmnt {
+  color: #8e8e8e;
+  font-size: 11pt;
+  margin-top: 0pt;
+}
+
+.notif-oto {
+  margin-left: 15px;
+}
+
+.rad-cmnt {
+  color: #8e8e8e;
+  font-size: 11pt;
+  margin-top: 6pt;
+}
+
+.kll-cont {
+  margin-left: 50px;
+}
+
+.desc-cont {
+  margin-top: 20px;
+  max-width: 570px;
+  line-height: 15pt;
+}
+
+.tersinkron {
+  font-size: 13pt;
+  margin-top: 20px;
+  font-weight: 700;
+  width: 420px;
+}
+
+.row-cont {
+  border-bottom: 1px solid #dddddd;
+  background-color: white;
+  max-height: 55px;
+  max-width: 610px;
+}
+
+.priv {
+  margin-top: 35px;
+  margin-left: 25px;
+  max-width: 655px;
+}
+
+.link {
+  font-size: 11pt;
+}
+
+.bold-txt {
+  font-weight: 700;
+}
+
+.login {
+  margin-top: 35px;
+  margin-left: 45px;
+  max-width: 655px;
+}
+
+.email-ig {
+  margin-top: 30px;
+  margin-left: 45px;
+  max-width: 655px;
+}
+
+.nav-custom {
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+}
+
+.aaa {
+  width: 284px;
+  color: rgba(var(--i1d, 38, 38, 38), 1);
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: opacity 250ms ease-in-out;
+}
