@@ -1,10 +1,11 @@
 .header {
   border-bottom: 1px solid #dddddd;
   background-color: white;
-  max-height: 55px;
+  height: 55px;
 }
 
 .instatelo {
+  padding: 0px 16px;
   margin-left: 55px;
   margin-right: 55px;
 }
@@ -43,13 +44,16 @@ body {
   background-color: white;
   border: solid thin #dddddd;
   border-radius: 3px;
-  /* margin-left: 90px;
-  margin-right: 90px; */
   margin-top: 30px;
   margin-bottom: 150px;
+  margin-left: auto;
+  margin-right: auto;
   min-height: 550px;
-  /* min-width: 950px; */
-  /* padding: 0px 0px 0px 0px; */
+  max-width: 935px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
 }
 
 .option {
@@ -271,4 +275,89 @@ EMAIL DAN SMS {
   font-weight: 700;
   text-transform: uppercase;
   transition: opacity 250ms ease-in-out;
+}
+
+HALAMAN HOME {
+}
+.card {
+  margin: 20px 20px;
+  width: 614px !important;
+}
+.card-header {
+  padding: 16px 16px !important;
+  height: 60px;
+  background-color: white;
+  border-bottom: 1px solid #dddddd;
+}
+.card-title {
+  font-size: 12pt;
+}
+.card-title img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50px !important;
+  margin-right: 14px;
+}
+.fa-2x {
+  font-size: 1.2em !important;
+}
+
+.dropdown-menu a {
+  color: black;
+  font-size: 11pt;
+  display: block;
+  padding: 5px 20px;
+}
+.dropdown-menu a img {
+  width: 17px !important;
+}
+
+.kanan {
+  float: right;
+}
+.ikon {
+  padding: 15px 0px 15px 18px;
+  width: 2.7rem;
+}
+.dropdown-toggle {
+  padding: 0px;
+}
+
+.mepet {
+  padding: 0px;
+  margin: 0px;
+}
+.emoji {
+  background-color: white;
+  border: 0px;
+  font-size: 12pt;
+}
+.komen {
+  -webkit-box-align: center;
+  align-items: center;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-direction: row;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  flex-shrink: 1;
+  position: relative;
+}
+.futr {
+  background-color: white;
+}
+.btn-kirim {
+  color: #0095f6;
+  font-weight: 900;
+  background-color: white;
+  margin: 0px;
+}
+.btn-kirim:hover {
+  background-color: #ffffff;
+}
+.fikset {
+  position: fixed;
+  z-index: 3;
+  padding: 0px;
 }

@@ -1,0 +1,1399 @@
+{
+  "data": {
+    "user": {
+      "id": "5484708635",
+      "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=8AUoZNYMP5IAX_VN0r3&oh=67d2f2dbe50ce08967df781e379b3c6d&oe=605FE68F&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.2",
+      "username": "telobacm",
+      "edge_web_feed_timeline": {
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": "KKgBARAACAIgABAAEAAQAAgACAAIAP__7v__-____vv____v________v__________f__________f________v___________9vf__v_____3493__Hi7-U5Dt5U3pOxNv_3_f_f_3_f_--_3___7__73____9_______-_2vn_n___8v___-3_t7r_9_f_v_3_v__-f__________3f5__0v-Rl2BYcBgFqKduLn6XQA="
+        },
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2516100282011611604",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153611834_178180017444730_7051771536521632628_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7tNJI806YS8AX_lt8Nc&tp=1&oh=e67e7d728b7cee626980b4025762da01&oe=605F7218",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/153611834_178180017444730_7051771536521632628_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7tNJI806YS8AX_lt8Nc&tp=1&oh=9444ac0a7ff651b82ea64e7cfcc0e673&oe=6060BFAE",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/153611834_178180017444730_7051771536521632628_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7tNJI806YS8AX_lt8Nc&tp=1&oh=f4cc7b98b202dad54810a036ac93cce5&oe=605E2B6A",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153611834_178180017444730_7051771536521632628_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7tNJI806YS8AX_lt8Nc&tp=1&oh=e67e7d728b7cee626980b4025762da01&oe=605F7218",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE2MTAwMjgyMDExNjExNjA0Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2OXwyNTE2MTAwMjgyMDExNjExNjA0fDU0ODQ3MDg2MzV8MzM3NzA3Y2I3NWM3YTY1NjFiNTRjZDVjYzU1ZWMwZGNjYjlkMGViMzkxNmRiMjVjM2ZjZDNlMGMyYjczYzQ1NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 24, 2021. May be an image of text that says 'AKAN TIBA MASANYA DIA DATANG MELAMARMU! Dan membawamu pergi Tidak butuh persetujuanmu Dan persetujuan orang tuamu SIAPA DIA? DIALAH KEMATIAN. HOBBY Share yuk..* BอL Dakwah Mashud mas.hud_muhammad'.",
+              "attribution": null,
+              "shortcode": "CLq--Aoj_HU",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @mas.hud_muhammad Berita tentang kematian terus bermunculan, ada yang mati karena kecelakaan, ada yang karena sakit, ada yang tiba² mati tanpa diketahui sebabnya, semuanya akan meninggalkan dunia ini pada masanya.\n\nHariku dan harimu pasti akan tiba, maka persiapkanlah bekal untuk perjalanan yang tak dapat kembali itu.\n\nSetiap yang bernyawa pasti akan merasakan yang namanya kematian\nQs.Al-Imran Ayat 185.\n\nYa Allah kami memohon kepada-Mu agar husnul khotimah dan mendapatkan rahmat-Mu untuk memperoleh Surga, kemudian selamat dari siksa api neraka."
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqwKKs2wUt8ylwB0H86tyxLIpIULjpz/8AWGaYGXRV2PAQKcZzz82OMjtj+vvUoZc5OMf7/wDXbznj0/rU3/r+kBm0U5ySxzzTKoDRsZdnynoxOfw4H6mo7qQH5E+4Dx9f89Kqo22m5oEWYgxGcqOvUnNO2sQTlcDjqeeAePXr+hqsJGAwCQKXzX/vH8zU2Yxh6/4UlFFUAU5cZ+bOO+OtNooAm/dY75x69/y6VEcdqSigAooooA//2Q==",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614162548,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "4195365397",
+                      "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=8AUoZNYMP5IAX_VN0r3&oh=67d2f2dbe50ce08967df781e379b3c6d&oe=605FE68F&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.2",
+                      "username": "mbusthomy"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2514928312130114093",
+              "dimensions": {
+                "height": 1920,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/152108716_2885029098486463_7549098640937096563_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=XJKrPkRhawYAX_nOTK0&tp=1&oh=52cab5056a3d7f6590a9ce54be123f63&oe=6038B74B",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/152108716_2885029098486463_7549098640937096563_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=XJKrPkRhawYAX_nOTK0&tp=1&oh=a6c7dcdfbbc0be57842d932b89e218b8&oe=603836C7",
+                  "config_width": 640,
+                  "config_height": 1137
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/152108716_2885029098486463_7549098640937096563_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=XJKrPkRhawYAX_nOTK0&tp=1&oh=e579a62331ed8d9622980ad5deda8684&oe=60386C80",
+                  "config_width": 750,
+                  "config_height": 1333
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/152108716_2885029098486463_7549098640937096563_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=XJKrPkRhawYAX_nOTK0&tp=1&oh=52cab5056a3d7f6590a9ce54be123f63&oe=6038B74B",
+                  "config_width": 1080,
+                  "config_height": 1920
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": true,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE0OTI4MzEyMTMwMTE0MDkzIiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE0OTI4MzEyMTMwMTE0MDkzfDU0ODQ3MDg2MzV8OGRiYWMxM2U2MmEwMzBkMmEyNTNlYjMxMGY3MWM2NjNlYjdiOWI3MDcyZWQ4ZjAwYzUwZjQ2ZDkxMWYyNzIzNyJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "dash_info": {
+                "is_dash_eligible": true,
+                "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M11.305S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M11.305S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"640\" maxHeight=\"1138\" maxFrameRate=\"30\" par=\"240:426\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17898129493836457vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"640\" height=\"1138\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"1007185\" FBQualityClass=\"sd\" FBQualityLabel=\"640w\" FBPlaybackResolutionMos=\"0:100.00,480:92.70,640:88.55\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/151291586_1142332919570711_5995168782322966844_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=gRQ6ipJa7yUAX9wDHUQ&amp;oh=ab581cbce821eb8a5726e352f78fe696&amp;oe=60385A03</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"915-994\" FBFirstSegmentRange=\"995-219082\" FBSecondSegmentRange=\"219083-369532\" FBPrefetchSegmentRange=\"995-369532\">\n      <Initialization range=\"0-914\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17898129529836457v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"240\" height=\"426\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"151595\" FBQualityClass=\"sd\" FBQualityLabel=\"240w\" FBPlaybackResolutionMos=\"0:100.00,480:50.92,640:44.13\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152073039_429069031650546_454660353482269436_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=TEPefLkH5V0AX--Sxcx&amp;oh=26a10429d07c7c3699b5276d5a758ddb&amp;oe=6038B313</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-992\" FBFirstSegmentRange=\"993-43442\" FBSecondSegmentRange=\"43443-77129\" FBPrefetchSegmentRange=\"993-77129\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17898129514836457v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"292\" height=\"520\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"283987\" FBQualityClass=\"sd\" FBQualityLabel=\"292w\" FBPlaybackResolutionMos=\"0:100.00,480:68.10,640:59.03\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153543543_185848789565519_2435962750581128771_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=EEZVB_Thj5kAX9K_i5v&amp;oh=391acd156f26ee92fee8f6bea5101836&amp;oe=60382C86</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-993\" FBFirstSegmentRange=\"994-61854\" FBSecondSegmentRange=\"61855-103594\" FBPrefetchSegmentRange=\"994-103594\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17898129505836457v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"464\" height=\"826\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"547098\" FBQualityClass=\"sd\" FBQualityLabel=\"464w\" FBPlaybackResolutionMos=\"0:100.00,480:82.81,640:75.39\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/151939871_964656987415617_4237512753163001357_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=BwgOll8oZhIAX8NMdhW&amp;oh=a442098cc37e8e335623eae1e7e1c46f&amp;oe=603888C7</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"914-993\" FBFirstSegmentRange=\"994-118676\" FBSecondSegmentRange=\"118677-199861\" FBPrefetchSegmentRange=\"994-199861\">\n      <Initialization range=\"0-913\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17898129484836457ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"81007\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153022973_2887835824769444_609260505454372427_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Nj3lBX46Ud8AX-Zr8gb&amp;oh=d0b11e16e8945bc791c06ed5d1ccf3f2&amp;oe=60389FA3</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"872-975\" FBFirstSegmentRange=\"976-20499\" FBSecondSegmentRange=\"20500-39774\" FBPrefetchSegmentRange=\"976-39774\">\n      <Initialization range=\"0-871\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                "number_of_qualities": 4
+              },
+              "has_audio": true,
+              "product_type": "clips",
+              "title": "",
+              "video_duration": 11.3,
+              "video_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152828340_409886743443359_7449106190534047027_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2Ow0oEWLZ6gAX9vgv-k&oe=60382AAD&oh=4d5b95d138d156f52debee571143d011",
+              "video_view_count": 145835,
+              "clips_music_attribution_info": {
+                "artist_name": "heaventube",
+                "song_name": "Audio Asli",
+                "uses_original_audio": true,
+                "should_mute_audio": false
+              },
+              "attribution": null,
+              "shortcode": "CLm0fmoFpIt",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "They were convincing af"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 74,
+                "page_info": {
+                  "has_next_page": true,
+                  "end_cursor": "QVFCa0J1b1JlQTF5LV9fZjY5Q01ZcnBTMnhIaVRZX0hFR0ctWWp3YUkycVVSWGRZS29xWm9OaF9Id3NNZi1uaEJoNjJoaUF1VjZMWHJsYTNKNTNVUjJmVQ=="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "18130711207160626",
+                      "text": "يوم يهجمون الزومبي بماينكرافت",
+                      "created_at": 1614101728,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "3036486438",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/120405440_124357389422466_6579939800241991336_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=FrdCAhOVRjgAX83jOPB&tp=1&oh=9cf22781ceecf5bf625239cb4a7c69ba&oe=605EC827",
+                        "username": "lionlaith7"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "17897323003791354",
+                      "text": "чё происходит",
+                      "created_at": 1614126671,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "10462151880",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/104837758_3176637579082636_4149691663712914996_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZSrBAipjDh8AX_saI-a&tp=1&oh=0f47458fdcc40761286a77b3787c009d&oe=605F1DE6",
+                        "username": "sm.yuliaa"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ABcq6TcPUUbh6j86yLm9Mcxj7AA8deRUS3jO+M4H61XKybo3qKzbRnL/ADMWGD3z3FFLYZRvBm5Y46BQcDn6A/qaqojAsSD8xBHfjpzitaaJJZmGFLDGc/Tj2qRbZlGBjHtSu0OyKmnFzKdwIG049Oo/HmitOKNlOT6UUeoEu3nOevsP8KXafX+X+FFFAAAR3zRRRQB//9k=",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614022845,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "4173945494",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/125513685_137051927789773_4230335388119738343_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=S8ed69FVfMUAX9Mtfb9&tp=1&oh=42698e08eb0c03e39bc9e424a01ce1cd&oe=60613AA8",
+                      "username": "chesterpaul_lyngodoh"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "7813463546",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/54513813_538713893323928_5748403779657531392_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=rBDCOIlPyhwAX8a38kg&tp=1&oh=00e9698417a7d0b3f5c9086992fc8dd4&oe=605F325C",
+                "username": "heaventube",
+                "followed_by_viewer": true,
+                "full_name": "Inspirational Videos",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2515991992842069706",
+              "dimensions": {
+                "height": 1198,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153349525_1167816676984869_3564812145628144782_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=LoNu3LHsN3cAX_eDH5x&tp=1&oh=dd68abedb8c8ca67bf9f2010e7a64814&oe=605F133C",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/153349525_1167816676984869_3564812145628144782_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=LoNu3LHsN3cAX_eDH5x&tp=1&oh=e71e2d61b5c4ff2670ac5189e9d99d53&oe=606055E4",
+                  "config_width": 640,
+                  "config_height": 709
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/153349525_1167816676984869_3564812145628144782_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=LoNu3LHsN3cAX_eDH5x&tp=1&oh=deb2d81ce77fc79d78f31952af9c50c5&oe=605DE45B",
+                  "config_width": 750,
+                  "config_height": 831
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153349525_1167816676984869_3564812145628144782_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=LoNu3LHsN3cAX_eDH5x&tp=1&oh=dd68abedb8c8ca67bf9f2010e7a64814&oe=605F133C",
+                  "config_width": 1080,
+                  "config_height": 1198
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1OTkxOTkyODQyMDY5NzA2Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE1OTkxOTkyODQyMDY5NzA2fDU0ODQ3MDg2MzV8M2Y0NDAzOTgwMTg2MGI4ZWRhYzFmY2Q4NjFmZTFhMjJmYzYzMWZlM2YwOTMyNDIwOWMwOTRkMjhhYTEwYmJjZSJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Meme & Rage Comic Indonesia on February 23, 2021. May be an anime-style image of text that says 'Bukannya aku membenci 'KERAMAIAN...' Hanya saja aku merasa damai saat 'SENDIRIAN''.",
+              "attribution": null,
+              "shortcode": "CLqmWMfFCbK",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Adalah watashi yang merasa damai saat sendirian\n-\nCreator : Chibisuke"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 379,
+                "page_info": {
+                  "has_next_page": true,
+                  "end_cursor": "QVFETnoyUC15TXcyOXk5Zl9mRHJQM2loaDVia0lKemJodjlWTkZWUm93MlBpdEdaUmpid3F1d2swOXVjUjQ1YTU5bmZfc2VFaFRUV1FNMHBXTG1aSnlSTQ=="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "18195380491005894",
+                      "text": "Iya gua banget tuh apalagi pas ada acara keluarga gua psti menyindiri krna gua pnya khidupan sndiri",
+                      "created_at": 1614162547,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "8665493270",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/133824554_312522053384901_4574493054955659062_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Zm73hvATmxUAX8i-u2_&tp=1&oh=f51f5802ac99f7cbd60b460a4d68f415&oe=605DE944",
+                        "username": "arieffff22"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "17912452159621287",
+                      "text": "@m.allafi_15 kalo gw overdosis",
+                      "created_at": 1614162586,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "3196278238",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/151492430_862562264686573_6132799526195964521_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=OLYGoCveHI0AX8xdWBz&tp=1&oh=6e048e66718519e5ddc46f22e4cc2684&oe=6061AC00",
+                        "username": "sultaniqbal_habib"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACYqtyXykAxYITls8HHTjPr/AIVYimWZN44Hv2rFa3ZQwAYPGBkjnduIwOOAMZqszSgbnzjOMHIzkZ/LH8/elqJxRrXl1bGMq5EnoByc+ue39R61lxSwo6tIuV68DuOhx3HtVYTg8lnz3xj/ADj0oaYMMFnPHQ4/XmkO2/mdTDcx3HEZyQMkEcj6/wD1qKwNPvBA7E/xAfp/+uincz5exMbi4m+VWQc5BBwSOcZpl6ZpSFbbj+EA5xxzk4H/ANatiGwh2/dA96p6jGtqodBk5xznv9MVkp3ZtYxxYSn+6M+p/wDrU/8As6X1Qde/p+FNDNjJzzz+Geta1lH55XfyBn8cYx9abk0FjOi0m4k5XaPqf/rUV0yyqjNuIHNFJT7hYWGZNv3l/MVz+oagLg7IlJ2kjJ79uBVyBF29B+Vc+nU1MYr7hs6aCSNogXA3KuORzj0A/Dp2qGK9SM527cA4HbJNYxduOT09fegknrTtcLkzXTOxPXJzRUCdKKdkUf/Z",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614149639,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "2671602116",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/118879376_335849377618007_4393465872938209148_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=p5Yyt1913kIAX_Zvucs&tp=1&oh=3f3a2eb6b14dd13f2dae3d05a2a60829&oe=60616A0D",
+                      "username": "rafavizan.id"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "532451942",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/79130174_1183964498460112_1873202591186288640_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=VuJNC6NxbRAAX9EKucm&tp=1&oh=19d06b646e1e552a9c99463a9ce8f5d8&oe=605E3F41",
+                "username": "mrci.id",
+                "followed_by_viewer": true,
+                "full_name": "Meme & Rage Comic Indonesia",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2515823351529697642",
+              "dimensions": {
+                "height": 640,
+                "width": 640
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152714216_502564040906923_6628068806074017088_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nQ_XBMa2JrkAX_TR0aj&tp=1&oh=d6c394a001fafb05f7a37528c7e7ac4e&oe=6038A23D",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152714216_502564040906923_6628068806074017088_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nQ_XBMa2JrkAX_TR0aj&tp=1&oh=d6c394a001fafb05f7a37528c7e7ac4e&oe=6038A23D",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152714216_502564040906923_6628068806074017088_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nQ_XBMa2JrkAX_TR0aj&tp=1&oh=d6c394a001fafb05f7a37528c7e7ac4e&oe=6038A23D",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152714216_502564040906923_6628068806074017088_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nQ_XBMa2JrkAX_TR0aj&tp=1&oh=d6c394a001fafb05f7a37528c7e7ac4e&oe=6038A23D",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": true,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1ODIzMzUxNTI5Njk3NjQyIiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2OXwyNTE1ODIzMzUxNTI5Njk3NjQyfDU0ODQ3MDg2MzV8YTUzMGQyZjkwNzE4MGYyNjEzYjc2Zjk2NTJjMmMxZTIyYmVkZmQ5ZTA5MWZkMDNiOTAyMjU0NWM1NGNkOTJjZSJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "dash_info": {
+                "is_dash_eligible": true,
+                "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M27.841S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M27.841S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"640\" maxHeight=\"640\" maxFrameRate=\"30\" par=\"1:1\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18068828440264733vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"640\" height=\"640\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"145646\" FBQualityClass=\"sd\" FBQualityLabel=\"640w\" FBPlaybackResolutionMos=\"0:100.00,480:95.20,640:93.58\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153718333_2728589494058041_6453058295651166088_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=mT5q5NoLIIQAX-Zvwtv&amp;oh=96da84e11727882bcc053f3fdd826e16&amp;oe=603862AE</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"905-1020\" FBFirstSegmentRange=\"1021-44471\" FBSecondSegmentRange=\"44472-94122\" FBPrefetchSegmentRange=\"1021-94122\">\n      <Initialization range=\"0-904\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18068828431264733ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"70176\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/151931158_2858605131064116_6071030983474999471_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=TO70sJEJtTsAX9Gp4ba&amp;oh=7dca9b3356d93411f2037034d6f1796d&amp;oe=6038AA3D</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"868-1067\" FBFirstSegmentRange=\"1068-17754\" FBSecondSegmentRange=\"17755-34323\" FBPrefetchSegmentRange=\"1068-34323\">\n      <Initialization range=\"0-867\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                "number_of_qualities": 1
+              },
+              "has_audio": true,
+              "product_type": "feed",
+              "title": "",
+              "video_duration": 27.766,
+              "video_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152845113_262413995371157_6080125026765048404_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Rkaei7Oyw5wAX-nkjFU&oe=60386FA5&oh=7161a4ae02682597445e2b80552a6eee",
+              "video_view_count": 2633,
+              "clips_music_attribution_info": null,
+              "attribution": null,
+              "shortcode": "CLqAAJBj3Fq",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ketika google jadi korban ghosting, google pun tau kamu garangan.. 😂😂😂\n.\n.\nVideo @prau_mountain\n#Justforfun #kerabat_pendaki"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 1,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "17893936441842841",
+                      "text": "Wihhh guru besar garangan",
+                      "created_at": 1614129650,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "23085063340",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/73414125_2581322552083235_3442029573183635456_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=YaVfI-yFgOgAX8uHCvj&tp=1&oh=a1be34b213bb1ae6de2f85039d8e3249&oe=605E6D38",
+                        "username": "kevinfox1945"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoq1EX5h9RWhnHqapqOR9atAEdifxpiExuzyw/z2qSkx+tJ36frSGZd+MuD/sj+ZqhtrTvB834f41QwfSqEay9RVnevqPzrGhviXVdo5IH5mtraPQVCv1KdugvWlpKM0xGRfzGNwBx8uf1NZv2hqn1eTbMBj+AfzNZXmN6GqQiW2uQZkGOrj+ddXz6D8v8A69cRa/66P/fX+YrtWPX8f6VIyQMR/n/69O3+1Qt/j/Kl/wA/pQBi6o480Z/uj+ZrO3irWr/64f7g/mayqYH/2Q==",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614129551,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "5913345733",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/140048301_1053394418478935_2177280696559460968_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=X95oLEntT0wAX_Q3y-q&tp=1&oh=53da6ef1f6f312d5a9f6de2221874de1&oe=605F9AFC",
+                      "username": "faaa.rid"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "5586840658",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71042699_980513248953825_8582388300101189632_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=yYZvSVPxTywAX9cRdfY&tp=1&oh=733c3c826dc1ec59060c3271bb8d7908&oe=605F8BBE",
+                "username": "kerabat_pendaki",
+                "followed_by_viewer": true,
+                "full_name": "KERABAT PENDAKI INDONESIA",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2515630502045401186",
+              "dimensions": {
+                "height": 1920,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/154081968_267784621558924_6833937279195461962_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=EZmGFRF-XGsAX-grUd9&tp=1&oh=f3fdf901a52f5d0d0a362d2078935abc&oe=60382DAB",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/154081968_267784621558924_6833937279195461962_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=EZmGFRF-XGsAX-grUd9&tp=1&oh=645a5b53a1c1173b9f5ff7a83772989b&oe=60383301",
+                  "config_width": 640,
+                  "config_height": 1137
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/154081968_267784621558924_6833937279195461962_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=EZmGFRF-XGsAX-grUd9&tp=1&oh=8ba4a1f919b519444054d7c8c2347b48&oe=603870C5",
+                  "config_width": 750,
+                  "config_height": 1333
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/154081968_267784621558924_6833937279195461962_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=EZmGFRF-XGsAX-grUd9&tp=1&oh=f3fdf901a52f5d0d0a362d2078935abc&oe=60382DAB",
+                  "config_width": 1080,
+                  "config_height": 1920
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": true,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1NjMwNTAyMDQ1NDAxMTg2Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE1NjMwNTAyMDQ1NDAxMTg2fDU0ODQ3MDg2MzV8ZjE3NjBkN2FlYzVmZmNiZTU5MzkxYTdmZGFiZDUyYmI3MzNjODVhZjJlN2ViNjI2YmMxZTJmN2FjZGNlMzQzYiJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "dash_info": {
+                "is_dash_eligible": true,
+                "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M25.005S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M25.005S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"1280\" maxFrameRate=\"30\" par=\"240:426\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17901585457762078vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"1280\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"757253\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:89.59,640:86.48,720:82.59\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/154614748_439965223983904_3217942532940376651_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=-05GtqoeFcIAX-5S-aw&amp;oh=78a6b5e8ab1f26e90b05be1956983d5f&amp;oe=6038A616</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-1028\" FBFirstSegmentRange=\"1029-207224\" FBSecondSegmentRange=\"207225-413366\" FBPrefetchSegmentRange=\"1029-413366\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901585550762078v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"240\" height=\"426\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"115158\" FBQualityClass=\"sd\" FBQualityLabel=\"240w\" FBPlaybackResolutionMos=\"0:100.00,480:55.51,640:51.01,720:46.73\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153072604_265478001810544_8284259559685440335_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=6Qy-CL--9DgAX9KyfSI&amp;oh=561c545cb2f7443d0b4c3605b2cab6fe&amp;oe=60386386</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-1028\" FBFirstSegmentRange=\"1029-28226\" FBSecondSegmentRange=\"28227-60118\" FBPrefetchSegmentRange=\"1029-60118\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901585514762078v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"432\" height=\"768\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"279237\" FBQualityClass=\"sd\" FBQualityLabel=\"432w\" FBPlaybackResolutionMos=\"0:100.00,480:77.69,640:74.01,720:69.96\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/151905664_330650521714308_1812584903431152647_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=LBTzj-WdfQoAX-vbhbg&amp;oh=f3eb8a0583016b8372ac5f3ab68fecd1&amp;oe=60386018</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"913-1028\" FBFirstSegmentRange=\"1029-79520\" FBSecondSegmentRange=\"79521-157677\" FBPrefetchSegmentRange=\"1029-157677\">\n      <Initialization range=\"0-912\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901585490762078v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"594\" height=\"1056\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"455876\" FBQualityClass=\"sd\" FBQualityLabel=\"594w\" FBPlaybackResolutionMos=\"0:100.00,480:84.14,640:80.19,720:76.45\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/154436009_768122127155889_8038453404000201506_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=NRAyZlgMihUAX_QVoHd&amp;oh=9041c5f0f385bd77f25f4da8dab569c5&amp;oe=603862AA</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"915-1030\" FBFirstSegmentRange=\"1031-129066\" FBSecondSegmentRange=\"129067-254630\" FBPrefetchSegmentRange=\"1031-254630\">\n      <Initialization range=\"0-914\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17901585427762078ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"62052\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153258463_3718053058280169_8807140952309201730_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_ohc=uJ0Pf8OBZzoAX_d-5VW&amp;oh=1413a8809f21bebdeeed4a86b2b05592&amp;oe=60383709</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"872-1059\" FBFirstSegmentRange=\"1060-16655\" FBSecondSegmentRange=\"16656-33183\" FBPrefetchSegmentRange=\"1060-33183\">\n      <Initialization range=\"0-871\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                "number_of_qualities": 4
+              },
+              "has_audio": true,
+              "product_type": "clips",
+              "title": "",
+              "video_duration": 25,
+              "video_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/153453741_1066638320489913_3802187439193690646_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=fwmjvkApeLEAX9sUaGR&oe=60383C86&oh=a8722c613cac16166fc38175fa31c84c",
+              "video_view_count": 33302,
+              "clips_music_attribution_info": {
+                "artist_name": "cheddar",
+                "song_name": "Audio Asli",
+                "uses_original_audio": true,
+                "should_mute_audio": false
+              },
+              "attribution": null,
+              "shortcode": "CLpUJz8jcBi",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Have you ever heard a tiger sing?🐯 Meet Vitas, the eight-month-old cub who has earned praise for his unique voice.\n\nVitas is not in pain and makes the high-pitched sounds when he is trying to attract attention, according to officials at the Barnaul Zoo in Russia.\n\nThe cub’s unique falsetto sounds are unusual because tigers' vocal cords are not designed for such high notes."
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 51,
+                "page_info": {
+                  "has_next_page": true,
+                  "end_cursor": "QVFEWmxOTkt0aHJwTDAtNTd4WWNZSTJhLTBqc1hhLW1zTXhROUlSM25qVTFtWmoyOHZXLW12T2pmNkpYbGtQcmJsd3hCUnd0c2xZZFdLWWJYVTZxbmFibg=="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "18010227394305317",
+                      "text": "Or he wants out of that tiny ass cage.. quit playing w him an me",
+                      "created_at": 1614154338,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "27179631675",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/153149084_1134420803703019_2224313384277320674_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=wrfMtUhODWUAX81EqnT&tp=1&oh=c91888f00813c2403fc2631351af44b7&oe=605E9F1C",
+                        "username": "ace_in_vegas"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "17901086794773317",
+                      "text": "Obv a hyena in a Tiger suit",
+                      "created_at": 1614158832,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "5768009331",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/20225245_1104630539636696_6829842129217388544_a.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=T-uxGS11EI8AX-VvM0z&tp=1&oh=5f7f2964c4715a055615dddc6dab6989&oe=605EA669",
+                        "username": "syntax604"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ABcqj3DsaYWxk+1I9zxtjGPVu/0//XVPezsSxOfU/wCelK4+U0lYHuB9TRUdnMQjKOQDxxkfnj9KKZJRXnJ96twR5YMeh45+hx+fSqkTZGfc1sLBuiGBlmGd38qzS1NG9BwGOneimxgOoOM9j9Rx60VoZmKo29a6DT1doAwYfNk4IJxzjHUcd6549a6PTf8Aj2T8f5mpRTGWyODIhKgq2T8pP3ucjkYHtRUo/wBe/wDurRTEf//Z",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614106557,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1138099589",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/118229611_345352120153958_3381729767844071403_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=zZBatzSINpYAX_qjiSQ&tp=1&oh=c1dea350991e5287426e0f57a93c1a6a&oe=605EB83B",
+                      "username": "1eofreitas"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "2959783072",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/101657853_3110577705665002_7312064736336543744_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=MjhIMZmn8lAAX8WKXRQ&tp=1&oh=6503926919c1867e95cd29962720d248&oe=6060A8A7",
+                "username": "cheddar",
+                "followed_by_viewer": true,
+                "full_name": "Cheddar🧀",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2515489840917999502",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/153018704_115661727179169_9077466110331259985_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=usvmDLAouSoAX_-brNZ&tp=1&oh=273b7cf5bbc0fde204f4d807bf8c31aa&oe=6060BAB8",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/153018704_115661727179169_9077466110331259985_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=usvmDLAouSoAX_-brNZ&tp=1&oh=d91724c605196c33b7101b2b435cc95a&oe=605FAD7F",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/153018704_115661727179169_9077466110331259985_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=usvmDLAouSoAX_-brNZ&tp=1&oh=bcf45daa7fd98001efbc49b4532e8fa8&oe=605E4D3B",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/153018704_115661727179169_9077466110331259985_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=usvmDLAouSoAX_-brNZ&tp=1&oh=273b7cf5bbc0fde204f4d807bf8c31aa&oe=6060BAB8",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1NDg5ODQwOTE3OTk5NTAyIiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE1NDg5ODQwOTE3OTk5NTAyfDU0ODQ3MDg2MzV8MWQ2MTM1NWYyNTUyYzAxNGE4NmJlNDNjZTE1OWFmMTJlM2QyYWFiNWYxNzBhNGFmYjljYmNlNjdmYWQ2NzQyMyJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Remote Worker Indonesia in Remotenthusiast Indonesia. May be an image of 1 person and text that says 'RemoteWorker Indonesia #RemoteworkeriDPodcast \"Kalau kamu mau survive, hilangkan perasaan merasa pintar. Kembangkan skillmu terus-menerus. Jangan puas dengan apa yang sudah kamu kuasai sekarang. Kemudian jangan pernah merasa aman dengan cara santai- santai aja, tidak menambah skill baru. Eko Suprapto Wibowo, CEO & Founder RemoteWorkerlD dalam PodctRWIDE Podcast 108- Cara Merasa Menjadi Pintar adalah Dengan Tidak Belajar fo REMOTE WORKER INDONESIA #WeWorkRemotelyAsOne'.",
+              "attribution": null,
+              "shortcode": "CLo0K7EBW-O",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "\"Kalau kamu mau survive, hilangkan perasaan merasa pintar. Kembangkan skillmu terus-menerus. Jangan puas dengan apa yang sudah kamu kuasai sekarang. Kemudian, jangan pernah merasa aman dengan cara santai-santai aja, tidak menambah skill baru.\" kata mas Eko Suprapto Wibowo dalam Podcast RWID Ep 108.\n\nHhmm... Penasaran mas Eko Wibowo sedang ngomong soal apa? Dengarin selengkapnya di\n\nSpotify: http://bit.ly/SPRWIDEP108 \nYoutube: http://bit.ly/YTRWIDEP108\n\n#WeWorkRemotelyAsOne #RemoteWorkerIndonesia #RWID #kerjaremote #RemoteWorker #WorkFromHome #karir #programmer #programmerIndonesia #freelanceworker #freelancerlife #pekerjalepas #freelancertips #freelancerstory #freelancerindonesia #tipsfreelance #upworkfreelancer #upworkindonesia"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614089778,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1530372735",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/126817486_747129072543136_553654081187703385_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=cLIrS_qsAdkAX8ne63a&tp=1&oh=67d24ab6cd1b7e05a77c96f5cd7a9945&oe=605E2BAA",
+                      "username": "adn_sense"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": {
+                "id": "796963000474809",
+                "has_public_page": true,
+                "name": "Remotenthusiast Indonesia",
+                "slug": "remotenthusiast-indonesia"
+              },
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "30112681714",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/85153506_485001502183826_5529644636957573120_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=MfEXp6t3m0UAX-xju6C&tp=1&oh=ec39840223232c87ea0e18249b94a3bb&oe=60614569",
+                "username": "remoteworker.id",
+                "followed_by_viewer": true,
+                "full_name": "Remote Worker Indonesia",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2516100059260263467",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152757982_840469299835923_1315840427167360231_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-5a2qQ1kVcIAX-I_ifO&tp=1&oh=dd2225e0b705eee4c17ed3c5facaf8d4&oe=6060ED2B",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/152757982_840469299835923_1315840427167360231_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-5a2qQ1kVcIAX-I_ifO&tp=1&oh=a1c72bc934fd5150216f36685670c634&oe=605DC291",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/152757982_840469299835923_1315840427167360231_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-5a2qQ1kVcIAX-I_ifO&tp=1&oh=0e33910d744b7584697ebc0651d5c720&oe=605F31D5",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152757982_840469299835923_1315840427167360231_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-5a2qQ1kVcIAX-I_ifO&tp=1&oh=dd2225e0b705eee4c17ed3c5facaf8d4&oe=6060ED2B",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE2MTAwMDU5MjYwMjYzNDY3Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2OXwyNTE2MTAwMDU5MjYwMjYzNDY3fDU0ODQ3MDg2MzV8YmY1NzA5ZmI4MWJiZTA5ZWI0ZGIyMmFlZjBhOWUxMjQwMTQ0YjlhYjM4NjNjZTM3NGFmZDIyZmJhZWRjZjQ4NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 24, 2021. May be an image of flower and text.",
+              "attribution": null,
+              "shortcode": "CLq-6xLjBwr",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @alfataah_mujtahidah 🌷 Yaa Akhowat Dirimu Bukan Konsumsi Publik🌷\n-\nSatu kalimat penuh makna. Di zaman sekarang yang semakin canggih ini, semakin banyak wanita berlomba-lomba untuk menghias dirinya bahkan batasan-batasan aurat sudah tidak lagi dipedulikan. Berlenggak-lenggok manja di depan kamera, dilihat banyak oleh laki-laki ajnabi (aplikasi toktok) na'udzubillah mindzalik. Sungguh, Allah telah memuliakan kita dengan islam, cara berpakaianpun telah Allah atur dalam syariat agamanya. Maka jangan hinakan dirimu karena mengikuti trend zaman sekarang. Cantik mu bukan konsumsi publik, jangan rendahkan diri mu dengan bermudah-mudahan mengupload gambar diri. Sudah banyak terjadi pada saudari kita, fotonya dijadikan hal-hal aneh oleh laki-laki yang tidak bertanggung jawab. \n\nYaa Allah lindungilah kami, lindungilah saudari-saudari muslimah kami, hati kami begitu lemah, lindungilah dari segala bentuk fitnah, aamiin. \n\n“Katakanlah kepada orang laki-laki yang beriman: “Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; yang demikian itu adalah lebih suci bagi mereka, sesungguhnya Allah Maha Mengetahui apa yang mereka perbuat”. Katakanlah kepada wanita yang beriman: “Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka menampakkan perhiasannya, kecuali yang (biasa) nampak dari padanya” (QS. An Nur: 30-31).\n https://muslim.or.id/39374-saudariku-jangan-upload-fotomu.html\n-\n-\n🎨 Team kreatif @alfataah_mujtahidah\n🔄 Free Share & repost\n✅ Support & follow \n@rumahquranahsan_\nahsanacademy\n@alfataah_mujtahidah\n\n#ukhtiakhiantiselfie\n#selfie #posterdakwah ##dakwahmilenial #desainposter #posterdesigncommunity #belajarislam #pemudahijrah #muslimproduktif #muslimdesigner #generasitarbiyah #dakwahdengankarya #yukshare #islamitumudah #sunnah #posterkebaikan  #creatorakhwat #remajasalaf #pemudahijrah #salaf #muslimah #dakwahkreatifcomunity #sampaikanlahwalausatuayat #thalibulilmi #ilmu #ilmuagama #fitnahwanita #muslimdesignercommunity #tiktok"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqwSB2ppWnbq0LJGBMhjMi7Tj6juP/AK3IpAZvlnsCaYwI68V0jNnDCArg5IJwTjIwffp+QqtdIZ1+SBkYEcnnjH9cjP4UAYeKSp/Lzn8qb5XuKYD9pU9uPetGG+fHloQpGSBxg+2T0ORkH/61ZeM0KMZ+h/lSA0jqk6nDdR13Yz37Y96b/aNwV+/3x26enSpISBCrcOTkMTg7QD90k9Bj1/CqEsOE3p8ybuo6rkcBh2P6HsaiMrt+WhTVreZDuIzTeaNvc0u3/Oa0JJFQucLyTU6QuFZdvJ4zjPtj8fUVVzRmkBN9nlI27WwDwMHr/jU6rKqkBc7ht6fw4+uO3Ug9MjBqiTRQA50KHDAg+9MpKKYH/9k=",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614162522,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "19633802027",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/143161451_239046981178462_8958543842037470511_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=8blaAMPUZXsAX8fjOL_&tp=1&oh=eb42ab27e4ddf197a0ea24a25589cd4a&oe=6060922F",
+                      "username": "myamedia.id"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2515746778974126409",
+              "dimensions": {
+                "height": 600,
+                "width": 480
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152820066_109744447815366_1542723270646203822_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T3Bu2jX0KkEAX8BgZ46&tp=1&oh=cd8abe81c1d52c44fde958a290da4b93&oe=6038613D",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152820066_109744447815366_1542723270646203822_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T3Bu2jX0KkEAX8BgZ46&tp=1&oh=cd8abe81c1d52c44fde958a290da4b93&oe=6038613D",
+                  "config_width": 640,
+                  "config_height": 800
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152820066_109744447815366_1542723270646203822_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T3Bu2jX0KkEAX8BgZ46&tp=1&oh=cd8abe81c1d52c44fde958a290da4b93&oe=6038613D",
+                  "config_width": 750,
+                  "config_height": 937
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152820066_109744447815366_1542723270646203822_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=T3Bu2jX0KkEAX8BgZ46&tp=1&oh=cd8abe81c1d52c44fde958a290da4b93&oe=6038613D",
+                  "config_width": 1080,
+                  "config_height": 1350
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": true,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1NzQ2Nzc4OTc0MTI2NDA5Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE1NzQ2Nzc4OTc0MTI2NDA5fDU0ODQ3MDg2MzV8YWVkMGUwOWJmODQwNzVkZjRiMTBiNjE2NWI5ZTllOGIyMWE5MTc3NjVlNmExOGFlYzY0ZTFjMjg4YWU4NjIxOCJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "dash_info": {
+                "is_dash_eligible": true,
+                "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M50.155S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M50.155S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"480\" maxHeight=\"600\" maxFrameRate=\"30\" par=\"480:600\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18194561404037318vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"480\" height=\"600\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"489347\" FBQualityClass=\"sd\" FBQualityLabel=\"480w\" FBPlaybackResolutionMos=\"0:100.00,480:79.34\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/154055740_431728871468727_6084151346746941334_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=103&amp;_nc_ohc=LPUhLBFj-PsAX-NQEfB&amp;oh=744f4bc32a77ffe68d9a65b286de85c8&amp;oe=603825BC</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"910-1085\" FBFirstSegmentRange=\"1086-113851\" FBSecondSegmentRange=\"113852-267871\" FBPrefetchSegmentRange=\"1086-267871\">\n      <Initialization range=\"0-909\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"18194561470037318v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"276\" height=\"346\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"129404\" FBQualityClass=\"sd\" FBQualityLabel=\"276w\" FBPlaybackResolutionMos=\"0:100.00,480:44.95\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/154280772_1549523691924277_8659745591029113152_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=KAfaxARpPp0AX-htHK8&amp;oh=da340a1a4be50379ab5e369056758487&amp;oe=60387155</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"911-1086\" FBFirstSegmentRange=\"1087-30675\" FBSecondSegmentRange=\"30676-72165\" FBPrefetchSegmentRange=\"1087-72165\">\n      <Initialization range=\"0-910\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"18194561446037318v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"440\" height=\"550\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"251356\" FBQualityClass=\"sd\" FBQualityLabel=\"440w\" FBPlaybackResolutionMos=\"0:100.00,480:63.04\">\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152127191_1339397716439505_4176725399580803852_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=1iIWrGA1InsAX8vsHQK&amp;oh=54e1e3020ee7b69a7f5e7a43f839787c&amp;oe=60388CEE</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"911-1086\" FBFirstSegmentRange=\"1087-58979\" FBSecondSegmentRange=\"58980-140978\" FBPrefetchSegmentRange=\"1087-140978\">\n      <Initialization range=\"0-910\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18194561356037318ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"92026\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152071875_2555723704728308_8810316476954584449_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_ohc=wY60x0nwPfwAX-6e1n6&amp;oh=39c5a8fe794be25db27ab2a75457bd8f&amp;oe=603888DF</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"868-1211\" FBFirstSegmentRange=\"1212-21597\" FBSecondSegmentRange=\"21598-41701\" FBPrefetchSegmentRange=\"1212-41701\">\n      <Initialization range=\"0-867\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                "number_of_qualities": 3
+              },
+              "has_audio": true,
+              "product_type": "feed",
+              "title": "",
+              "video_duration": 49.933,
+              "video_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t50.2886-16/152905596_246291777094186_3916893200146456837_n.mp4?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JdHcGyg8tEsAX_gD4vM&oe=60389C8F&oh=af5ec90ea82a60c650b3adc2d024fe93",
+              "video_view_count": 16689,
+              "clips_music_attribution_info": null,
+              "attribution": null,
+              "shortcode": "CLpul3RlgFJ",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Yang tinggal di Jateng-Jatim cung☝️😁\n.\n.\nVideo by @doraemon.jowo\nVia @id.petualang \n\n#kamiparapendaki"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 23,
+                "page_info": {
+                  "has_next_page": true,
+                  "end_cursor": "QVFCTWZRdEFnVU5kLTdWOGVzWkF4TFJkM1pjZUZtVjczOUlrQUZXN21EOFliZmF0dGExZmVNWEo0WTlJMlp4VEk2UnRXbU1KQUtfN0Z1b3pHYUgxcHFPcQ=="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "18158752387116992",
+                      "text": "Lagunya siapa min..",
+                      "created_at": 1614143961,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "3866886637",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/26070994_2018425278426074_6342600857107824640_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=zJd0pU9aSh8AX8Owo3N&tp=1&oh=e1d1757f5662a4559b5465c060183fce&oe=6060F2DE",
+                        "username": "saylowzizah"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "17886094232048873",
+                      "text": "@saylowzizah angin dalu judulnya,cari aja di yt",
+                      "created_at": 1614146364,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "1956265135",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/75256808_415527159128466_1145833494308454400_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=QUhsX2-HI0wAX_XEaaT&tp=1&oh=ebc33893f479c2bda630a11b48386170&oe=605EEF14",
+                        "username": "amny_00"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACEq1BweaduA9P0/+JpkkoPAqHO7hetMC6Cx6f0/wqYGqKNtHJqYvj2oAs5oqr5o9aKAOcMzIBtOcjn60xZn6g1EIc9CP8/hQIm9vzpXAsfaJFOSTT2uZG7/AIVEqsByKkaBiu4AYHXkZH4ZpXATzpKKZ5be350UXAWGFpzlOFU4Pb+dWpllRSwxheTyP8/lT7Ric8/54q24zG2fQ0DMAM0ucA8cnn+nvUikp8wAf/eGcc+lO6E/X/CgfdNAxPtT/wB2P/vgUU7aPQUUCsf/2Q==",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614120431,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "2308973591",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/59789941_416504622262148_3158346253138395136_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=B3oLimVjAHcAX8ni7GG&tp=1&oh=789f5235e525fe0cba56dc2ec1413914&oe=60615689",
+                      "username": "miastywti"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "5424935988",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/32121817_2008256962760032_2007334900876705792_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=4gqljF9jnNkAX9kvaAd&tp=1&oh=0a76d71f6db015863c59425919666586&oe=605F654F",
+                "username": "kamiparapendaki",
+                "followed_by_viewer": true,
+                "full_name": "PENDAKI GUNUNG INDONESIA",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2516099871003250892",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153140251_764644927786106_4249989983177915509_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LEKloqCJiq4AX811b48&tp=1&oh=ecfc3aefabd8f09fce628f2b4d416ce3&oe=605FA314",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/153140251_764644927786106_4249989983177915509_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LEKloqCJiq4AX811b48&tp=1&oh=0980d0a6641c5f80ca920f9a683cf361&oe=605EC82A",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/153140251_764644927786106_4249989983177915509_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LEKloqCJiq4AX811b48&tp=1&oh=7e402cb4545e3372ef9960921f7be9f7&oe=605F9E6E",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/153140251_764644927786106_4249989983177915509_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LEKloqCJiq4AX811b48&tp=1&oh=ecfc3aefabd8f09fce628f2b4d416ce3&oe=605FA314",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE2MDk5ODcxMDAzMjUwODkyIiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ2N3wyNTE2MDk5ODcxMDAzMjUwODkyfDU0ODQ3MDg2MzV8YWJiMjRkOGI3ODIxOTU1N2UyYmJlYTUyZDUyZTM5OWQ0ZTNmZDM1Y2IwZTQ1NGE4NjVlNmRmOTAwMTQ2ODAwZSJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 24, 2021. May be an illustration of text that says '@maghozi show @kalijaga_z ikuti kami dalam berkarya dan belajar bersama MAGHOZİ B包 SHOW jangan lupa notifikasinya UMAIR BIN AL-HUMAM -Syuhada Badar- Db dalam berkarya! Doakan kami menurutmukarya karya mmilikkemslhn emilikikemaslahatan like, komen, and Save ingin membacanya lagi FREET SHARE!'.",
+              "attribution": null,
+              "shortcode": "CLq-4B2jhDM",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @kalijaga_z Menuju ilustrasi generasi terbaik 100+ desain karakter para sahabat Nabi (insyaAllah)\n\nTokoh ke 36 Syuhada Badar\nUmair bin Al Humam\n\nUntuk melihat lengkapnya yang sudah di post\n1 - 35 Desain Karakter Sahabat Nabi bisa berkunjung ya !\n\n@kalijaga_z\n@maghozi_show\n\nApa yang kau tahu tetang tokoh kita yang satu ini?\n\n#sahabatrasul #sahabatnabi #badar #perangbadar\n#10sahabatyangdijaminmasuksurga\n#10sahabatnabiyangdijaminmasuksurga\n#posterdakwah #poster #designcharacter\n#ilustration #comic #caracter #design\n#ilustrasidakwah #dakwahvisual #dakwahkomunikasivisual\n#art #artofdakwah #digitalillustration #digitalart #digitaldrawing #drawing #paintings #maghozishow #muslimshow #muslimshowindonesia"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqzDKu0DAyOnHf1J9apH5s+lXrDZv+fkFSMH3GD+PpRdjzWVIgMJhF9SOOT9D3PrQBUSQkABEO3uR1+tMHHHfufQVZeMRjH8W7BwcjJ7D146/gPWiW28mPLnEueU77cdT6Hnpz+FAFRZMAjGc07yyecU6BQPmapiTnjpQAttGVbeDs28ktjA46YJGc+g59qsx/JIjbsOU3Z7EFmJ6d8cj+lU1YSxhB99SSPRs9f+BAAAeo9+usyAiK4RdyIojkA5K9RnHPBBNAFRZRGnmkBmR/l7LnHB9SMjdjjn2qSG7MgLlwGc5cGPd0AGc4746CqcuBEVQZG8n2wBgHn1zUYlzwo27UIOOMnnk/nj8M0AahnXJPmgA9f3J7DH8utYW4+tO3P3J596PKY9v1FAE0ce0ht2D1qSUEjch/Lv8A/qNRu7FVJJJAAHPYdB9B2p9uSVOfWgCNX3Kc8kc+/wBajQ8MT3GPzol4c44pnb8aAJI4Hl5Ud8dCcn04Bo3KvBByOKaWKn5SR0PHHPrUZOaAP//Z",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614162499,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "5558199705",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/150997593_355149138846183_6269144656968184116_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=X9r9m2X339oAX-DeVuV&tp=1&oh=1bf3d1b0075733b68d2ed79ee8933c5b&oe=605E261D",
+                      "username": "andisprasety"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2515825125594399989",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/154168264_883942232147875_7128022417080300298_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckQg7oK_KzwAX80On3U&tp=1&oh=490846be0839580c6765d7c40e08747d&oe=6061A951",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/154168264_883942232147875_7128022417080300298_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckQg7oK_KzwAX80On3U&tp=1&oh=0616f840266ad4f15b33cf97b05bf9f9&oe=605FBE6B",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/154168264_883942232147875_7128022417080300298_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckQg7oK_KzwAX80On3U&tp=1&oh=9ec59d6dfcf2fdbb866a562de93b5108&oe=60605D2F",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/154168264_883942232147875_7128022417080300298_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckQg7oK_KzwAX80On3U&tp=1&oh=490846be0839580c6765d7c40e08747d&oe=6061A951",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE1ODI1MTI1NTk0Mzk5OTg5Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ3MHwyNTE1ODI1MTI1NTk0Mzk5OTg5fDU0ODQ3MDg2MzV8NWIzOWQyZjQyNTc0NWY2ZGQ5MDA5MTFkMTlkZjFlMDgwMDM3OTA5OGI4YzdlZTQzM2ExYmEwOThjNmFkNjgzMSJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 23, 2021. May be a cartoon of ‎one or more people and ‎text that says '‎Pahamilah Kelak engkau akan mengerti bahwa memilih pasangan itu tak mesti hanya tentang cinta, tapi juga tentang siapa yang akan menemanı ibadahmu hingga engkau menutup mată. by @need.for.sunnah DAKWAH KARYA Yuk Yue பeh NaG... CEL CO SUNNEH عباد 기‎'‎‎.",
+              "attribution": null,
+              "shortcode": "CLqAZ9QDoT1",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @need.for.sunnah • • • • • •\n\"Pahamilah, kelak engkau akan mengerti bahwa memilih pasangan itu tak mesti hanya tentang cinta, tapi juga tentang siapa yang akan menemani ibadahmu hingga engkau menutup mata.\"\n.\nMasyaAllah, sobat hijrah 😄. Semoga kelak kita dipertemukan pasangan yang sehidup se-syurga. Aamiin 🙏\n.\nLike, share, & save bila bermanfaat 🌿\n.\n@muslimdesignercommunity\n@rha.fitrii_\n@amifdlh\n@abylz\n@ukhti.mia_\n@irmadamayanti_arif\n@justcaptionislamic \n@dakwahmuslimah03 \n@perinduusyurga\n.\nFollow 👉@need.for.sunnah ✒️\nFollow 👉@need.for.sunnah ✒️\nFollow 👉@need.for.sunnah ✒️\n.\n.\n#hijrahsantun\n#hijrahquote\n#pemudahijrah\n#akhwathijrah\n#akhwaty_hijrah \n#akhwatbercadar \n#muhasabahdiri \n#sahabatfillah\n#semangathijrah \n#motivasihijrah\n#needforsunnah \n#kajiansunnah\n#ikhwanhijrah\n#dakwahsunnah\n#dakwahsalaf \n#dakwahislam \n#dakwahindonesia \n#posterdakwah \n#dakwahvisual\n#designdakwah \n#portaldakwah \n#dakwahmuslimah\n#jomblofisabilillah\n#katamutiaraislami \n#sahabatmuslimah \n#akhwatakhirzaman \n#ikhwanulmuslimin \n#muslimahindonesia\n#muslimdesignercommunity \n#indonesiatanpapacaran"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 2,
+                "page_info": {
+                  "has_next_page": true,
+                  "end_cursor": "QVFDdWVmNW1PQmhuSTF6eVlJanpwZ3RDdEdQZW1sT2RXbkV3UVRCMFhuUFlLQmQzY2xELXMydG85N1VjS0JIbW55SzhTYy1UOVZyVkdwS29PR3pIYWlTSg=="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "id": "17907497485674754",
+                      "text": "@fhaulfha__",
+                      "created_at": 1614146890,
+                      "did_report_as_spam": false,
+                      "owner": {
+                        "id": "7398859587",
+                        "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/69316454_423590894955971_901868193570619392_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9l3Wke5L0RAAX_I71-c&tp=1&oh=7b35b01c3dfd2b959cd0762d4b32bc7e&oe=605F8366",
+                        "username": "ojiyuti70"
+                      },
+                      "viewer_has_liked": false
+                    }
+                  }
+                ]
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoq6XNFZ8zqHIKg++T6d/pTA6/3R/30aANSiq1uVOSqkD1Pf9adNOsJXdgBjjJIH/66AJ6KKKAKMpl3naDjscA9vpSATFsDj3IGP5VcKk9CR+A/wo2n+8fyH+FAEKl40Yv2BPbHHsAKxWvPOTPDOMglgBwy5O3GcYYcHvjmt6c4jY/7J/ka42PPLLgLjLH1x6e3OTUsuJ1NlcmVdrA5A+9g4bt+Bz1FXqxNLnIYwtxuG9c+nHT1BGCPxrbpoT0ZVkeQMQAdowRgDn1AyRSqzlhnIB65A4/HP+NWaKZJFMCY2A5O04H4VzKQSnKBDnBBzwBx3J4H511dIRng0rXKTsZ9pAd4lbqI0VRjgcc4OecnuK0aQDHApaZJ/9k=",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614129747,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1961793481",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/57374681_331306850903414_8691907170125479936_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Vcsp3cJW8RcAX9Rf82u&tp=1&oh=292cc3e4f785d6bed077be2f8e30a061&oe=605FD8FB",
+                      "username": "hafidh_alfaruqi"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2516099454441774143",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152730884_868518370634719_3560830119373209770_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zwUhq3PJekUAX9tnjZP&tp=1&oh=5d5a9e54219e3d3494098f6d4f68bb7a&oe=60614F09",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/152730884_868518370634719_3560830119373209770_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zwUhq3PJekUAX9tnjZP&tp=1&oh=f61c5cb1afdb7a97151dfd2fd1b8ede9&oe=606118B3",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/152730884_868518370634719_3560830119373209770_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zwUhq3PJekUAX9tnjZP&tp=1&oh=69271a5d489915a387a52fbc36ea5800&oe=605FA1F7",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152730884_868518370634719_3560830119373209770_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zwUhq3PJekUAX9tnjZP&tp=1&oh=5d5a9e54219e3d3494098f6d4f68bb7a&oe=60614F09",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE2MDk5NDU0NDQxNzc0MTQzIiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ3MHwyNTE2MDk5NDU0NDQxNzc0MTQzfDU0ODQ3MDg2MzV8ZjJiNTVkOTU5MzNiN2UxYzRhNjkyMDUwNDFmMGNmYWVjZWE4YjExYzQ5ZmI1OWU4NzEzYTc1NWNmZTNlMmZlNyJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 24, 2021. May be an image of ocean and text.",
+              "attribution": null,
+              "shortcode": "CLq-x95jlw_",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @aan_abu_arslan Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n\nلا يرزق الله عبدا الشكر فيحرمه الزيادة\n\n“Allah tidak mengaruniakan syukur pada hamba dan sulit sekali ia mendapatkan tambahan nikmat setelah itu. Karena Allah Ta’ala berfirman,\n\nلَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ\n\n“Jika kalian mau bersyukur, maka Aku sungguh akan menambah nikmat bagi kalian.” (QS. Ibrahim: 7) (HR. Al Baihaqi dalam Syu’abul Iman, 4: 124)\n.\n.\nAl Hasan Al Bashri berkata, “Sesungguhnya Allah memberi nikmat kepada siapa saja yang Dia kehendaki. Jika seseorang tidak mensyukurinya, maka nikmat tersebut berbalik jadi siksa.”\n.\nSumber https://rumaysho.com/8176-syukur-akan-terus-menambah-nikmat.html\n.\n.\n#desaindakwah #dakwahsunnah #dakwahtauhid #rehabhati #dakwahmillennial @dakwahmillennials.id  #muslimdesignercommunity\n@muslimdesignercommunity\n\nFollow : @aan_abu_arslan\nFollow : @ar_rehab_store31"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqjS1EkYdWGckEHjHp9aBasOMrn6/X29qZCFGHLLnn5WB9x/8AXFWdykdYufQEYrVnJZNa/mNNs4B+7wOefx9KrRkH+dXZArrjKD3Gfpj+tUB8rEdR0zUvYqGjstjSj5ANS5qvC2QKnrmO4xVHfGalXHp+tRipUP8AnNdZ5g8qCOnNRKN1WdpIxk/lTBER0qWaQVmie1GF/OrOKigGF+nFTVzvzO5GTtIOCMHjjH+f/r08ZHbH4UshJ6885/GhmJ7n866bnntdhymovMOevTtT16ZqGpKh0NGH7vrUm4UkBOB+FSECudncj//Z",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614162450,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "3669881481",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/120368240_2785384368363746_1757034359617093412_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=dhKCISopDy4AX-YYFiq&tp=1&oh=5fb6997a70a511edc61ed7d92f4205b7&oe=605E8323",
+                      "username": "rulzhf"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2516099567268450978",
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152568322_252425586457524_6762470527935179809_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gzpANU7uktMAX8UumNh&tp=1&oh=8b9a6421a54133585874b9a12580c177&oe=605EABCA",
+              "display_resources": [
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/152568322_252425586457524_6762470527935179809_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gzpANU7uktMAX8UumNh&tp=1&oh=44876b8cd30f6ab7f517fc736c151fad&oe=606188F4",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/152568322_252425586457524_6762470527935179809_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gzpANU7uktMAX8UumNh&tp=1&oh=e90d0a9e543a50ec67b2b32139953d59&oe=605F0C38",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/e35/152568322_252425586457524_6762470527935179809_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gzpANU7uktMAX8UumNh&tp=1&oh=8b9a6421a54133585874b9a12580c177&oe=605EABCA",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "follow_hashtag_info": null,
+              "is_video": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjVhZjdiNjU3YWRlNGU0MDg2MjM1NjExZTU1Yzc2ZTQyNTE2MDk5NTY3MjY4NDUwOTc4Iiwic2VydmVyX3Rva2VuIjoiMTYxNDE2MjY1NzQ3MHwyNTE2MDk5NTY3MjY4NDUwOTc4fDU0ODQ3MDg2MzV8NTc3MjYxNGU2MTUxNWNjZDYxYWI0YTA1OGVlMzE2MzVlMjljYmFkNzlmMWQzMjE2NjFlY2M1ZDgzMGMxYTZlMSJ9LCJzaWduYXR1cmUiOiIifQ==",
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": "Photo by Official MDC Est.2013 on February 24, 2021. May be an image of text.",
+              "attribution": null,
+              "shortcode": "CLq-zm-jNKi",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Reposted from @mdcjombang .\nKita semua butuh bekal, bukan bertujuan bersaing di dunia.\nBekal ini lebih kita butuh untuk menuju alam akhirat.\n\nDari Ibnu ‘Umar radhiyallahu ‘anhuma, ia berkata, Rasulullah shallallahu ‘alaihi wa sallam pernah memegang pundaknya, lalu berkata,\n\nكُنْ فِى الدُّنْيَا كَأَنَّكَ غَرِيبٌ ، أَوْ عَابِرُ سَبِيلٍ\n\n“Hiduplah kalian di dunia seakan-akan seperti orang asing, atau seperti seorang pengembara.”\n\nDioret-olet oleh: @sandhi_okta\nGambar disediakan oleh; pexels.com\n\nSumber caption https://rumaysho.com/12553-butuh-bekal-ke-kampung-akhirat.html"
+                    }
+                  }
+                ]
+              },
+              "edge_media_preview_comment": {
+                "count": 0,
+                "page_info": {
+                  "has_next_page": false,
+                  "end_cursor": null
+                },
+                "edges": []
+              },
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqz1h3Lu6H8/8AP5VeILg7cEVnh8g+h7f1+vf86sQuFYHOR35oaBMsi2KjOevc/wAv8+op/kAHqP54PenZUjB+fPIABzx6f1PT6mn5I+VUIx1JPr/n9KzKInx0POBUflmpGjbG4jGe/wDiKZge/wCRoGZinAHRR+pPr6/0qfy1YZXHv2/pVUY3c9Panq2wdcZ/zyMVsZl+F1ICtnaDzjrg+h4xg1L58atg5wQc8YH0ycn0yf6VRinCuOepwfQg9QfStJ5T0AA6dhjA6fl/LjpWbLWookJjbC46EdSfcknjHbjn2wDUG5vWpixwc5P06f4dKgyPVv0qfQZRELgYJWMHgnnJ+p/oMD1qFrcjoc/gR/OtlADnPNQIBx/vVdxWK8MAXHG5j3I4H+6PX3P4AVMBjIO4FeMHP61dUDB+hqmfuj6Uh7CZ6FfxHT8O1S5c9EP5CjAPXmpqVx2P/9k=",
+              "comments_disabled": false,
+              "taken_at_timestamp": 1614162463,
+              "edge_media_preview_like": {
+                "count": -1,
+                "edges": [
+                  {
+                    "node": {
+                      "id": "5863732591",
+                      "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/117716245_3336953806529278_6811970681079432687_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=l_S5lmKvDbIAX_DENlP&tp=1&oh=3e3fe89b9774fd642c6c7feaf1bdb8a4&oe=605FD30A",
+                      "username": "nurfatwa_y"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_sponsor_user": {
+                "edges": []
+              },
+              "location": null,
+              "viewer_has_liked": false,
+              "viewer_has_saved": false,
+              "viewer_has_saved_to_collection": false,
+              "viewer_in_photo_of_you": false,
+              "viewer_can_reshare": true,
+              "owner": {
+                "id": "1554132532",
+                "profile_pic_url": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/121500781_634832093846749_8023276708815021046_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=2miUpHmilZEAX95SzW8&tp=1&oh=79c1756133aa407bb5a6c4936eb45a37&oe=605F100E",
+                "username": "muslimdesignercommunity",
+                "followed_by_viewer": true,
+                "full_name": "Official MDC Est.2013",
+                "is_private": false,
+                "requested_by_viewer": false,
+                "blocked_by_viewer": false,
+                "has_blocked_viewer": false,
+                "restricted_by_viewer": false
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "status": "ok"
+}

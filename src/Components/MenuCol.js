@@ -10,7 +10,7 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/accounts/edit/"
-            className={`nav-link ${pathname === "/accounts/edit" ? "active" : "inactive"}`}
+            className={`nav-link ${pathname === "/accounts/edit/" ? "active" : "inactive"}`}
           >
             Edit Profil
           </Link>
@@ -19,7 +19,7 @@ export default class MenuCol extends Component {
           <Link
             to="/accounts/password/change/"
             className={`nav-link ${
-              pathname === "/accounts/password/change" ? "active" : "inactive"
+              pathname === "/accounts/password/change/" ? "active" : "inactive"
             }`}
           >
             Ubah Kata Sandi
@@ -28,7 +28,9 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/accounts/manage_access/"
-            className={`nav-link ${pathname === "/accounts/manage_access" ? "active" : "inactive"}`}
+            className={`nav-link ${
+              pathname === "/accounts/manage_access/" ? "active" : "inactive"
+            }`}
           >
             Aplikasi dan Situs Web
           </Link>
@@ -36,7 +38,7 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/emails/settings/"
-            className={`nav-link ${pathname === "/emails/settings" ? "active" : "inactive"}`}
+            className={`nav-link ${pathname === "/emails/settings/" ? "active" : "inactive"}`}
           >
             Email dan SMS
           </Link>
@@ -44,7 +46,7 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/push/web/settings/"
-            className={`nav-link ${pathname === "/push/web/settings" ? "active" : "inactive"}`}
+            className={`nav-link ${pathname === "/push/web/settings/" ? "active" : "inactive"}`}
           >
             Notifikasi Otomatis
           </Link>
@@ -53,7 +55,7 @@ export default class MenuCol extends Component {
           <Link
             to="/accounts/contact_history/"
             className={`nav-link ${
-              pathname === "/accounts/contact_history" ? "active" : "inactive"
+              pathname === "/accounts/contact_history/" ? "active" : "inactive"
             }`}
           >
             Kelola Kontak
@@ -63,7 +65,7 @@ export default class MenuCol extends Component {
           <Link
             to="/accounts/privacy_and_security/"
             className={`nav-link ${
-              pathname === "/accounts/privacy_and_security" ? "active" : "inactive"
+              pathname === "/accounts/privacy_and_security/" ? "active" : "inactive"
             }`}
           >
             Privasi dan Keamanan
@@ -72,7 +74,9 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/session/login_activity/"
-            className={`nav-link ${pathname === "/session/login_activity" ? "active" : "inactive"}`}
+            className={`nav-link ${
+              pathname === "/session/login_activity/" ? "active" : "inactive"
+            }`}
           >
             Aktivitas Login
           </Link>
@@ -80,7 +84,7 @@ export default class MenuCol extends Component {
         <li>
           <Link
             to="/emails/emails_sent/"
-            className={`nav-link ${pathname === "/emails/emails_sent" ? "active" : "inactive"}`}
+            className={`nav-link ${pathname === "/emails/emails_sent/" ? "active" : "inactive"}`}
           >
             Email dari Instagram
           </Link>

@@ -1,122 +1,39 @@
 import "./App.css";
 import React, { Component } from "react";
-import {
-  Container,
-  Row,
-  Nav,
-  Navbar,
-  NavDropdown,
-  Form,
-  FormControl,
-  Col,
-  Tab,
-  Tabs,
-  Image,
-  Button,
-} from "react-bootstrap";
+import { Container, Row, Form, Col, Tab, Tabs, Image, Button } from "react-bootstrap";
 import { createBrowserHistory } from "history";
-import { Router, Switch, Route, Link } from "react-router-dom";
+import { Router, Switch, Route } from "react-router-dom";
 import Template from "./Components/Template";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { faSearch } from "@fortawesome/free-solid-svg-icons";
-
-// const Icon = ({ nama }) => {
-//   if (nama === "search") return <FontAwesomeIcon icon={faSearch} className="mr-2" />;
-// };
+import Home from "./Components/Home";
+import NavBar from "./Components/NavBar";
 
 export default class App extends Component {
   render() {
     return (
-      <Container fluid>
-        <Row className="header">
-          <Container>
-            <Navbar className="instatelo">
-              <Col md="4">
-                <Navbar.Brand href="/">
-                  <img src="InstaTelo.png" alt="InstaTelo"></img>
-                </Navbar.Brand>
-              </Col>
-              <Col md="4">
-                <Form className="form-src">
-                  <FormControl className="search" type="text" placeholder="Search" />
-                </Form>
-              </Col>
-              <Col md="4">
-                <Nav className="mr-auto">
-                  <Router history={createBrowserHistory()}>
-                    <Link to="/">
-                      <img src="home.svg" alt="🏠" style={{ width: 22 }} />
-                    </Link>
-                    <Link to="/direct/">
-                      <img src="dm.svg" alt="📩" style={{ width: 22 }} />
-                    </Link>
-                    <Link to="/explore/">
-                      <img src="explore.svg" alt="🧭" style={{ width: 22 }} />
-                    </Link>
-                    <Link to="/activity/">
-                      <img src="heart.svg" alt="💝" style={{ width: 22 }} />
-                    </Link>
-                  </Router>
-                  <NavDropdown
-                    title={<img src="pp.jpg" alt="👦" style={{ width: 22 }} roundedCircle />}
-                    id="basic-nav-dropdown"
-                  >
-                    <Router history={createBrowserHistory()}>
-                      <Link to="/accounts/edit/">
-                        <img src="user.svg" alt="👦" style={{ width: 22 }} /> Profil
-                      </Link>
-                      <Link to="/bookmark/">
-                        <img src="bookmark.svg" alt="🔖" style={{ width: 22 }} /> Disimpan
-                      </Link>
-                      <Link to="/settings/">
-                        <img src="settings.svg" alt="⚙️" style={{ width: 22 }} /> Pengaturan
-                      </Link>
-                      <Link to="/switch_account/">
-                        <img src="switch.svg" alt="🔄" style={{ width: 22 }} /> Ganti Akun
-                      </Link>
-                      <NavDropdown.Divider />
-                      <Link to="/log_out/">Keluar</Link>
-                    </Router>
-                  </NavDropdown>
-                </Nav>
-              </Col>
-            </Navbar>
-          </Container>
-        </Row>
-        <Container>
-          <Router history={createBrowserHistory()}>
-            <Switch>
-              <Route path="/" exact component={Home} />
-              <Route path="/direct/" component={Direct} />
-              <Route path="/explore/" component={Explore} />
-              <Route path="/activity/" component={Activity} />
-              <Route path="/bookmark/" component={Bookmark} />
-              <Route path="/settings/" component={Settings} />
-              <Route path="/switch_account/" component={SwitchAccount} />
-              <Route path="/log_out/" component={logOut} />
-              <Route path="/accounts/edit/" component={EditProfil} />
-              <Route path="/accounts/password/change/" component={UbahKataSandi} />
-              <Route path="/accounts/manage_access/" component={AplikasidanSitus} />
-              <Route path="/emails/settings/" component={EmaildanSMS} />
-              <Route path="/push/web/settings/" component={NotifikasiOtomatis} />
-              <Route path="/accounts/contact_history/" component={KelolaKontak} />
-              <Route path="/accounts/privacy_and_security/" component={PrivasiKeamanan} />
-              <Route path="/session/login_activity/" component={AktivitasLogin} />
-              <Route path="/emails/emails_sent/" component={EmailIG} />
-            </Switch>
-          </Router>
+      <Router history={createBrowserHistory()}>
+        <Container fluid>
+          <Switch>
+            <Route path="/" exact component={Home} />
+            <Route path="/direct/" component={Direct} />
+            <Route path="/explore/" component={Explore} />
+            <Route path="/activity/" component={Activity} />
+            <Route path="/profile/" component={Profile} />
+            <Route path="/bookmark/" component={Bookmark} />
+            <Route path="/accounts/edit/" component={EditProfil} />
+            <Route path="/switch_account/" component={SwitchAccount} />
+            <Route path="/log_out/" component={logOut} />
+            <Route path="/accounts/edit/" component={EditProfil} />
+            <Route path="/accounts/password/change/" component={UbahKataSandi} />
+            <Route path="/accounts/manage_access/" component={AplikasidanSitus} />
+            <Route path="/emails/settings/" component={EmaildanSMS} />
+            <Route path="/push/web/settings/" component={NotifikasiOtomatis} />
+            <Route path="/accounts/contact_history/" component={KelolaKontak} />
+            <Route path="/accounts/privacy_and_security/" component={PrivasiKeamanan} />
+            <Route path="/session/login_activity/" component={AktivitasLogin} />
+            <Route path="/emails/emails_sent/" component={EmailIG} />
+          </Switch>
         </Container>
-      </Container>
-    );
-  }
-}
-
-class Home extends Component {
-  render() {
-    return (
-      <Container>
-        <h1>IKI HOME</h1>
-      </Container>
+      </Router>
     );
   }
 }
@@ -124,8 +41,11 @@ class Home extends Component {
 class Direct extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI DM</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI DM</h1>
+        </Container>
       </Container>
     );
   }
@@ -134,8 +54,11 @@ class Direct extends Component {
 class Explore extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI EXPLORE</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI EXPLORE</h1>
+        </Container>
       </Container>
     );
   }
@@ -144,8 +67,11 @@ class Explore extends Component {
 class Activity extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI ACTIVITY</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI ACTIVITY</h1>
+        </Container>
       </Container>
     );
   }
@@ -154,18 +80,24 @@ class Activity extends Component {
 class Bookmark extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI BOOKMARK</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI BOOKMARK</h1>
+        </Container>
       </Container>
     );
   }
 }
 
-class Settings extends Component {
+class Profile extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI SETTINGS</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI PROFILE</h1>
+        </Container>
       </Container>
     );
   }
@@ -174,8 +106,11 @@ class Settings extends Component {
 class SwitchAccount extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI SWITCH ACCOUNT</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI SWITCH ACCOUNT</h1>
+        </Container>
       </Container>
     );
   }
@@ -184,8 +119,11 @@ class SwitchAccount extends Component {
 class logOut extends Component {
   render() {
     return (
-      <Container>
-        <h1>IKI LOG OUT</h1>
+      <Container fluid className="mepet">
+        <NavBar {...this.props} />
+        <Container style={{ paddingTop: "150px" }}>
+          <h1>IKI LOG OUT</h1>
+        </Container>
       </Container>
     );
   }
@@ -193,12 +131,13 @@ class logOut extends Component {
 
 class EditProfil extends Component {
   render() {
+    console.log("edit-profile", this.props);
     return (
       <Template {...this.props}>
         <div>
           <Row className="col-pad">
             <Col className="isikiri" md="3">
-              <img src="pp.jpg" style={{ width: 38 }} roundedCircle />
+              <img src="/pp.jpg" alt="👦" style={{ width: 38 }} />
             </Col>
             <Col md="9">
               <p className="nama-akun">Nama Akun</p>
@@ -319,7 +258,7 @@ class UbahKataSandi extends Component {
         <div>
           <Row className="col-pad">
             <Col className="isikiri" md="3">
-              <Image src="pp.jpg" style={{ width: 38 }} roundedCircle />
+              <Image src="/pp.jpg" alt="👦" style={{ width: 38 }} />
             </Col>
             <Col md="9">
               <p className="nama-akun2">Nama Akun</p>
