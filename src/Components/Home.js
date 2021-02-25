@@ -67,7 +67,7 @@ class Post extends Component {
                 <b>{item.node.owner.username}</b>
               </Card.Title>
             </Card.Header>
-            {/* <Card.Img variant="top" src={item.node.display_url} /> */}
+            {/* <Card.Img variant="top" src={item.node.display_url} /> KALO CUMA PEN GAMBAR THOK*/}
             <Card.Body className="p-0">
               {
                 (item.node.is_video = false ? (
@@ -107,7 +107,7 @@ class Post extends Component {
                   <img src="/emoji.svg" alt="😊" style={{ width: 30 }} />
                 </button>
                 <FormControl placeholder="Tambahkan Komentar..." className="emoji" />
-                <button className="btn-kirim">Kirim</button>
+                <button className="btn-komen-post">Kirim</button>
               </Form>
             </Card.Footer>
           </Card>

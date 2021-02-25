@@ -248,6 +248,7 @@ EMAIL DAN SMS {
   background-color: white;
   max-height: 55px;
   max-width: 610px;
+  margin-bottom: 20px;
 }
 
 .col-pad {
@@ -347,13 +348,14 @@ HALAMAN HOME {
 .futr {
   background-color: white;
 }
-.btn-kirim {
+.btn-komen-post {
   color: #0095f6;
   font-weight: 900;
   background-color: white;
+  border: none;
   margin: 0px;
 }
-.btn-kirim:hover {
+.btn-komen-post:hover {
   background-color: #ffffff;
 }
 .fikset {

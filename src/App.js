@@ -6,6 +6,7 @@ import { Router, Switch, Route } from "react-router-dom";
 import Template from "./Components/Template";
 import Home from "./Components/Home";
 import NavBar from "./Components/NavBar";
+import contacs from "./contacts.json";
 
 export default class App extends Component {
   render() {
@@ -484,6 +485,9 @@ class NotifikasiOtomatis extends Component {
 }
 
 class KelolaKontak extends Component {
+  state = {
+    kontak: contacs,
+  };
   render() {
     return (
       <Template {...this.props}>
@@ -503,7 +507,9 @@ class KelolaKontak extends Component {
           <br />
           <Row className="row-cont">
             <Col>
-              <h4 className="tersinkron">0 Kontak Tersinkron</h4>
+              <h4 className="tersinkron">
+                {this.state.kontak.data.user.contact_history.length} Kontak Tersinkron
+              </h4>
             </Col>
             <Col>
               <button className="btn-non" type="submit" value="Submit">
@@ -511,6 +517,14 @@ class KelolaKontak extends Component {
               </button>
             </Col>
           </Row>
+          {this.state.kontak.data.user.contact_history.map((item, i) => (
+            <div key={i}>
+              <b>
+                {item.first_name} {item.last_name}
+              </b>
+              <p>0{item.raw_value}</p>
+            </div>
+          ))}
         </Container>
       </Template>
     );
