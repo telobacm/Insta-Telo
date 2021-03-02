@@ -1,0 +1,54 @@
+{
+  "email_settings": [
+    {
+      "title": "Email Masukan",
+      "example": "Beri masukan di Instagram.",
+      "options": [
+        ["Berlangganan", 1],
+        ["Berhenti berlangganan", 2]
+      ],
+      "name": "research",
+      "checked": 2
+    },
+    {
+      "title": "Email Pengingat",
+      "example": "Dapatkan notifikasi yang mungkin Anda lewatkan.",
+      "options": [
+        ["Berlangganan", 1],
+        ["Berhenti berlangganan", 2]
+      ],
+      "name": "reminders",
+      "checked": 2
+    },
+    {
+      "title": "Email Produk",
+      "example": "Dapatkan tips tentang fitur Instagram.",
+      "options": [
+        ["Berlangganan", 1],
+        ["Berhenti berlangganan", 2]
+      ],
+      "name": "tutorial",
+      "checked": 1
+    },
+    {
+      "title": "Email Berita",
+      "example": "Pelajari tentang fitur baru Instagram.",
+      "options": [
+        ["Berlangganan", 1],
+        ["Berhenti berlangganan", 2]
+      ],
+      "name": "announcement",
+      "checked": 1
+    },
+    {
+      "title": "Email Dukungan",
+      "example": "Dapatkan pembaruan laporan dan pelanggaran Pedoman Komunitas.",
+      "options": [
+        ["Berlangganan", 1],
+        ["Berhenti berlangganan", 2]
+      ],
+      "name": "support_email",
+      "checked": 2
+    }
+  ]
+}

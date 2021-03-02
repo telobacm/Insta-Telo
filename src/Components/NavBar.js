@@ -27,37 +27,18 @@ export default class NavBar extends Component {
               <Col md="4">
                 <Nav className="kanan">
                   <Link to="/">
-                    <img
-                      className="ikon"
-                      src={pathname === "/" ? "/home-act.svg" : "/home.svg"}
-                      alt="🏠"
-                    />
+                    <img className="ikon" src={pathname === "/" ? "/home-act.svg" : "/home.svg"} alt="🏠" />
                   </Link>
                   <Link to="/direct/">
-                    <img
-                      className="ikon"
-                      src={pathname === "/direct/" ? "/dm-act.svg" : "/dm.svg"}
-                      alt="📩"
-                    />
+                    <img className="ikon" src={pathname === "/direct/" ? "/dm-act.svg" : "/dm.svg"} alt="📩" />
                   </Link>
                   <Link to="/explore/">
-                    <img
-                      className="ikon"
-                      src={pathname === "/explore/" ? "/explore-act.svg" : "/explore.svg"}
-                      alt="🧭"
-                    />
+                    <img className="ikon" src={pathname === "/explore/" ? "/explore-act.svg" : "/explore.svg"} alt="🧭" />
                   </Link>
                   <Link to="/activity/">
-                    <img
-                      className="ikon"
-                      src={pathname === "/activity/" ? "/heart-act.svg" : "/heart.svg"}
-                      alt="💝"
-                    />
+                    <img className="ikon" src={pathname === "/activity/" ? "/heart-act.svg" : "/heart.svg"} alt="💝" />
                   </Link>
-                  <NavDropdown
-                    title={<img src="/pp.jpg" alt="👦" className="ikon" />}
-                    id="basic-nav-dropdown"
-                  >
+                  <NavDropdown title={<img src="/pp.jpg" alt="👦" className="ikon" />} id="basic-nav-dropdown">
                     <Link to="/profile/">
                       <img src="/user.svg" alt="👦" style={{ width: 22 }} /> Profil
                     </Link>
