@@ -2,15 +2,8 @@ import React, { Component } from "react";
 import { Form } from "react-bootstrap";
 import Template from "../Components/Template";
 import { push_prefs } from "./notifications.json";
+import { IsJsonString } from "../Helpers";
 
-function IsJsonString(str) {
-  try {
-    JSON.parse(str);
-  } catch (e) {
-    return false;
-  }
-  return true;
-}
 class NotifikasiOtomatis extends Component {
   constructor(props) {
     super(props);
