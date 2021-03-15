@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Row, Col, Form, Button } from "react-bootstrap";
+import { connect } from "react-redux";
 import Template from "../Components/Template";
 
 class EditProfil extends Component {
@@ -34,14 +35,14 @@ class EditProfil extends Component {
     });
   };
   render() {
-    console.log("edit-profile", this.props);
+    // console.log("edit-profile", this.props);
     return (
       <Template {...this.props}>
         <div>
           <Form onSubmit={(e) => this.onSubmit(e)}>
             <Row style={{ paddingTop: 30 }}>
               <Col className="isikiri" md="3">
-                <img src="/pp.jpg" alt="👦" style={{ width: 38 }} />
+                <img src="/ava.png" alt="👦" style={{ width: 38 }} />
               </Col>
               <Col md="9">
                 <p className="nama-akun">{this.state.EditProfil.namaPengguna}</p>
@@ -55,7 +56,7 @@ class EditProfil extends Component {
                 Nama
               </Col>
               <Col md="9">
-                <Form.Control id="nama" defaultValue={this.state.EditProfil.nama} type="text" className="form-ctrl" placeholder="Nama" />
+                <Form.Control style={{ backgroundColor: this.props.background }} id="nama" defaultValue={this.state.EditProfil.nama} type="text" className="form-ctrl" placeholder="Nama" />
                 <Form.Text className="ket-form">
                   Bantu orang menemukan akun Anda menggunakan nama yang orang-orang kenali tentang Anda: baik nama lengkap, nama panggilan, atau nama bisnis Anda.
                   <br />
@@ -68,7 +69,15 @@ class EditProfil extends Component {
                 Nama Pengguna
               </Col>
               <Col md="9">
-                <Form.Control id="namaPengguna" defaultValue={this.state.EditProfil.namaPengguna} onChange={this.changeUserName} type="text" className="form-ctrl" placeholder="Nama Pengguna" />
+                <Form.Control
+                  style={{ backgroundColor: this.props.background }}
+                  id="namaPengguna"
+                  defaultValue={this.state.EditProfil.namaPengguna}
+                  onChange={this.changeUserName}
+                  type="text"
+                  className="form-ctrl"
+                  placeholder="Nama Pengguna"
+                />
                 <Form.Text className="ket-form">
                   Di sebagian besar kasus, Anda tidak akan bisa mengubah nama pengguna kembali menjadi {this.state.userName} untuk 14 hari lain.
                   <br /> <a href="https://help.instagram.com/876876079327341">Pelajari selengkapnya</a>
@@ -80,7 +89,14 @@ class EditProfil extends Component {
                 Situs Web
               </Col>
               <Col md="9">
-                <Form.Control id="situsWeb" defaultValue={this.state.EditProfil.situsWeb} type="text" className="form-ctrl" placeholder="Situs Web" />
+                <Form.Control
+                  style={{ backgroundColor: this.props.background }}
+                  id="situsWeb"
+                  defaultValue={this.state.EditProfil.situsWeb}
+                  type="text"
+                  className="form-ctrl"
+                  placeholder="Situs Web"
+                />
               </Col>
             </Row>
             <Row>
@@ -88,7 +104,16 @@ class EditProfil extends Component {
                 Bio
               </Col>
               <Col md="9">
-                <Form.Control id="bio" defaultValue={this.state.EditProfil.bio} as="textarea" rows={2} type="text" className="text-area" placeholder="Miwon" />
+                <Form.Control
+                  style={{ backgroundColor: this.props.background }}
+                  id="bio"
+                  defaultValue={this.state.EditProfil.bio}
+                  as="textarea"
+                  rows={2}
+                  type="text"
+                  className="text-area"
+                  placeholder="Miwon"
+                />
                 <Form.Text className="ket-form">
                   <br />
                   <p className="info-pri">Informasi Pribadi</p>
@@ -101,7 +126,7 @@ class EditProfil extends Component {
                 Email
               </Col>
               <Col md="9">
-                <Form.Control id="email" type="email" className="form-ctrl" placeholder="Email" />
+                <Form.Control style={{ backgroundColor: this.props.background }} id="email" type="email" className="form-ctrl" placeholder="Email" />
               </Col>
             </Row>
             <Row>
@@ -109,7 +134,14 @@ class EditProfil extends Component {
                 Nomor Telepon
               </Col>
               <Col md="9">
-                <Form.Control id="telepon" defaultValue={this.state.EditProfil.telepon} type="text" className="form-ctrl" placeholder="Nomor Telepon" />
+                <Form.Control
+                  style={{ backgroundColor: this.props.background }}
+                  id="telepon"
+                  defaultValue={this.state.EditProfil.telepon}
+                  type="text"
+                  className="form-ctrl"
+                  placeholder="Nomor Telepon"
+                />
               </Col>
             </Row>
             <Row>
@@ -117,7 +149,14 @@ class EditProfil extends Component {
                 Jenis Kelamin
               </Col>
               <Col md="9">
-                <Form.Control id="kelamin" defaultValue={this.state.EditProfil.kelamin} type="text" className="form-ctrl" placeholder="Jenis Kelamin" />
+                <Form.Control
+                  style={{ backgroundColor: this.props.background }}
+                  id="kelamin"
+                  defaultValue={this.state.EditProfil.kelamin}
+                  type="text"
+                  className="form-ctrl"
+                  placeholder="Jenis Kelamin"
+                />
               </Col>
             </Row>
             <Row>
@@ -145,7 +184,9 @@ class EditProfil extends Component {
                 </Button>
               </Col>
               <Col md="6">
-                <button className="btn-non">Nonaktifkan sementara akun saya</button>
+                <button style={{ backgroundColor: this.props.background }} className="btn-non">
+                  Nonaktifkan sementara akun saya
+                </button>
               </Col>
             </Row>
           </Form>
@@ -155,4 +196,7 @@ class EditProfil extends Component {
   }
 }
 
-export default EditProfil;
+const mapStateToProps = (state) => {
+  return { background: state.background, color: state.color };
+};
+export default connect(mapStateToProps)(EditProfil);

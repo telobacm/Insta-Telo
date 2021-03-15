@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { connect } from "react-redux";
 import Template from "../Components/Template";
 import contacs from "./contacts.json";
 
@@ -21,12 +22,12 @@ class KelolaKontak extends Component {
             lebih baik untuk semua orang.
           </p>
           <br />
-          <Row className="row-cont">
+          <Row style={{ background: this.props.background }} className="row-cont">
             <Col>
               <h4 className="tersinkron">{this.state.kontak.data.user.contact_history.length} Kontak Tersinkron</h4>
             </Col>
             <Col>
-              <button className="btn-non" type="submit" value="Submit">
+              <button style={{ background: this.props.background }} className="btn-non" type="submit" value="Submit">
                 Hapus Semua
               </button>
             </Col>
@@ -44,4 +45,8 @@ class KelolaKontak extends Component {
     );
   }
 }
-export default KelolaKontak;
+
+const mapStateToProps = (state) => {
+  return { background: state.background, color: state.color };
+};
+export default connect(mapStateToProps)(KelolaKontak);

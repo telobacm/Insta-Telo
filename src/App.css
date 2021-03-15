@@ -1,15 +1,25 @@
-.header {
+.header{
+  justify-content:center ;
   border-bottom: 1px solid #dddddd;
-  background-color: white;
   height: 55px;
+  padding: 0px 20px;
 }
-
+.fikset {
+  position: fixed;
+  z-index: 3;
+  padding: 0px ;
+}
 .instatelo {
-  padding: 0px 16px;
-  margin-left: 55px;
-  margin-right: 55px;
+  padding: 0px 20px;
+  margin: 0px 20px;
 }
-
+.text-logo {
+  height: 35px;
+  padding-bottom: 3px;
+}
+.telo {
+  height: 25px;
+}
 .search-form {
   padding-left: 25pt;
 }
@@ -41,7 +51,7 @@ body {
 
 .options {
   list-style-type: none;
-  background-color: white;
+  /* background-color: white; */
   border: solid thin #dddddd;
   border-radius: 3px;
   margin-top: 30px;
@@ -83,7 +93,7 @@ body {
 }
 .inactive:hover {
   border-left: 2px solid #d1d1d1;
-  background-color: #f8f8f8;
+  background-color: #808080;
   text-decoration: none;
   color: black;
 }
@@ -320,6 +330,7 @@ HALAMAN HOME {
   padding: 15px 0px 15px 18px;
   width: 2.7rem;
 }
+
 .dropdown-toggle {
   padding: 0px;
 }
@@ -332,6 +343,9 @@ HALAMAN HOME {
   background-color: white;
   border: 0px;
   font-size: 12pt;
+}
+.emoji:focus {
+  box-shadow: 0 0 0px #fff;
 }
 .komen {
   -webkit-box-align: center;
@@ -346,7 +360,7 @@ HALAMAN HOME {
   position: relative;
 }
 .futr {
-  background-color: white;
+  border-top: 1px solid #ddd;
 }
 .btn-komen-post {
   color: #0095f6;
@@ -358,11 +372,67 @@ HALAMAN HOME {
 .btn-komen-post:hover {
   background-color: #ffffff;
 }
-.fikset {
-  position: fixed;
-  z-index: 3;
-  padding: 0px;
-}
+
 .cnt-profile {
   padding: 90px 100px 0px 100px;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 48px;
+  height: 28px;
+  margin-bottom: 0px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #002646;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 21px;
+  width: 21px;
+  left: 4px;
+  bottom: 4px;
+  background-color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #ffff46;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
 }
