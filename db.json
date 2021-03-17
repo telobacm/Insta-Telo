@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "nama": "izul", "email": "izul@gmoi.com", "alamat": "oslo" },
+    { "id": 2, "nama": "stren", "email": "strange@gmoi.com", "alamat": "giriwono" },
+    { "id": 3, "nama": "pajupi", "email": "tuba@gmoi.com", "alamat": "buntal" },
+    { "id": 4, "nama": "usamah", "email": "binLaden@gmoi.com", "alamat": "gomok" }
+  ]
+}
