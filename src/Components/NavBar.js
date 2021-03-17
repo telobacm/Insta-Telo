@@ -82,7 +82,7 @@ c28 -96 17 -452 -21 -658 -18 -100 -80 -296 -96 -306 -8 -5 -10 80 -5 322 6
                       />
                     </g>
                   </svg>
-                  <img className="telo" src="/telo.png"></img>
+                  <img className="telo" src="/telo.png" alt="🥔"></img>
                 </Link>
               </Navbar.Brand>
             </Col>

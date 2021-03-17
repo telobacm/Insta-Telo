@@ -19,7 +19,7 @@ class EmaildanSMS extends Component {
     this.setState({ settings });
   }
   onChange(e, i) {
-    const { name, checked } = e.target;
+    const { /* name, */ checked } = e.target;
     const { settings } = this.state;
     const value = checked ? 2 : 1;
     // console.log(i, name, checked, value);
@@ -42,7 +42,7 @@ class EmaildanSMS extends Component {
               settings.map((s, i) => {
                 return (
                   <Form.Group controlId={s.name}>
-                    <Form.Check className="chkbx" type="checkbox" defaultChecked={settings[i].checked == 2} name={s.name} label={s.title} onChange={(e) => this.onChange(e, i)} />
+                    <Form.Check className="chkbx" type="checkbox" defaultChecked={settings[i].checked === 2} name={s.name} label={s.title} onChange={(e) => this.onChange(e, i)} />
                     <Form.Text className="chk-cmnt">{s.example}</Form.Text>
                   </Form.Group>
                 );
