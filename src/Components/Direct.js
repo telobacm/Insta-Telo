@@ -1,6 +1,6 @@
 import axios from "axios";
 import { Component } from "react";
-import { Container, Table } from "react-bootstrap";
+import { Container, Table, Modal, Button, Form, FormControl } from "react-bootstrap";
 import NavBar from "./NavBar";
 
 const API_URL = process.env.REACT_APP_API_URL;
@@ -10,6 +10,10 @@ class Direct extends Component {
     super(props);
     this.state = {
       users: [],
+      open: false,
+      nama: "",
+      email: "",
+      alamat: "",
     };
   }
 
@@ -26,9 +30,22 @@ class Direct extends Component {
         console.log(error);
       });
   };
+  handleChange = (e) => {
+    this.setState({ [e.target.name]: e.target.value });
+  };
+
+  handleSubmit = (e) => {
+    e.preventDefault();
+    console.log(this.state);
+    axios.post(API_URL + "/users", this.state).then(this.geni());
+  };
+
+  toggleModal = (open) => {
+    this.setState({ open });
+  };
 
   componentDidMount() {
-    // console.log("did mon");
+    // console.log("Did-Mon");
     this.geni();
   }
 
@@ -38,12 +55,15 @@ class Direct extends Component {
   };
 
   render() {
-    console.log(this.state);
-    // console.log("dor", this.state.users);
     return (
       <Container fluid className="mepet">
         <NavBar {...this.props} />
-        <Container style={{ paddingTop: "150px" }}>
+        <Container style={{ paddingTop: "90px" }}>
+          <p style={{ textAlign: "right" }}>
+            <Button onClick={() => this.toggleModal(true)}>Tambah</Button>
+            <br />
+            <i>*klik untuk menambahkan user</i>
+          </p>
           <Table striped bordered hover variant="dark">
             <thead>
               <tr>
@@ -57,17 +77,50 @@ class Direct extends Component {
             {this.state.users.map((item, i) => (
               <tbody key={i}>
                 <tr>
-                  <td width="40">{i + 1}</td>
-                  <td text-align="center">{item.nama}</td>
-                  <td>{item.email}</td>
-                  <td>{item.alamat}</td>
-                  <td>
-                    <button onClick={() => this.axiosDelete(item.id)}>Delete</button>
+                  <td width="40" style={{ textAlign: "center", verticalAlign: "middle" }}>
+                    {i + 1}
+                  </td>
+                  <td style={{ verticalAlign: "middle" }}>{item.nama}</td>
+                  <td style={{ verticalAlign: "middle" }}>{item.email}</td>
+                  <td style={{ verticalAlign: "middle" }}>{item.alamat}</td>
+                  <td style={{ textAlign: "center" }}>
+                    <Button variant="danger" onClick={() => this.axiosDelete(item.id)}>
+                      Delete
+                    </Button>
                   </td>
                 </tr>
               </tbody>
             ))}
           </Table>
+          <Modal size="md" show={this.state.open} centered>
+            <Form onSubmit={this.handleSubmit}>
+              <Modal.Header closeButton onClick={() => this.toggleModal(false)}>
+                <Modal.Title id="contained-modal-title-vcenter">Masukkan user baru</Modal.Title>
+              </Modal.Header>
+              <Modal.Body>
+                <Form.Group>
+                  <Form.Label>Nama:</Form.Label>
+                  <FormControl onChange={this.handleChange} type="text" name="nama" />
+                </Form.Group>
+                <Form.Group>
+                  <Form.Label>Email:</Form.Label>
+                  <FormControl onChange={this.handleChange} type="text" name="email" />
+                </Form.Group>
+                <Form.Group>
+                  <Form.Label>Alamat:</Form.Label>
+                  <FormControl onChange={this.handleChange} type="text" name="alamat" />
+                </Form.Group>
+              </Modal.Body>
+              <Modal.Footer>
+                <Button variant="success" type="submit" onClick={() => this.toggleModal(false)}>
+                  Create
+                </Button>
+                <Button variant="secondary" onClick={() => this.toggleModal(false)}>
+                  Close
+                </Button>
+              </Modal.Footer>
+            </Form>
+          </Modal>
         </Container>
       </Container>
     );
