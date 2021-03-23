@@ -18,7 +18,7 @@ class Direct extends Component {
 
   geni = async () => {
     await axios.get(API_URL + "/users").then((res) => {
-      const users = res.data;
+      const users = res.data.users;
       this.setState({ users });
     });
   };
@@ -28,11 +28,12 @@ class Direct extends Component {
 
   createPost = (e) => {
     e.preventDefault();
-    const { nama, email, alamat } = e.target;
+    const { nama, email, alamat, id } = e.target;
     const data = {
       nama: nama.value,
       email: email.value,
       alamat: alamat.value,
+      id: id.value,
     };
     axios.post(API_URL + "/users", data).then(this.geni);
   };
@@ -50,6 +51,10 @@ class Direct extends Component {
     this.setState({ open2: false });
   };
 
+  componentDidUpdate() {
+    // console.log(this.state.users);
+  }
+
   bukaModal = (open) => {
     this.setState({ open });
   };
@@ -66,14 +71,14 @@ class Direct extends Component {
   };
 
   render() {
-    const isian = this.state.users[this.state.index];
-    console.log(isian);
+    // const isian = this.state.users[this.state.index];
+    // console.log(isian);
     return (
       <Container fluid className="mepet">
         <NavBar {...this.props} />
         <Container style={{ paddingTop: "90px" }}>
           <p style={{ textAlign: "right" }}>
-            <Button onClick={() => this.bukaModal(true)}>Tambah</Button>
+            <Button onClick={(e) => this.bukaModal(true)}>Tambah</Button>
             <br />
             <i>*klik untuk menambahkan user</i>
           </p>
@@ -85,6 +90,7 @@ class Direct extends Component {
                 <th>Nama</th>
                 <th>Email</th>
                 <th>Alamat</th>
+                <th>id</th>
                 <th>Options</th>
               </tr>
             </thead>
@@ -95,13 +101,16 @@ class Direct extends Component {
                     {i + 1}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {item.nama}
+                    {this.state.users !== [] ? item.nama : ""}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {item.email}
+                    {this.state.users !== [] ? item.email : ""}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {item.alamat}
+                    {this.state.users !== [] ? item.alamat : ""}
+                  </td>
+                  <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
+                    {this.state.users !== [] ? item.id : ""}
                   </td>
                   <td style={{ textAlign: "center" }}>
                     <Button variant="danger" onClick={() => this.axiosDelete(item.id)}>
@@ -124,6 +133,8 @@ class Direct extends Component {
                 <FormControl type="text" name="email" />
                 <Form.Label>Alamat:</Form.Label>
                 <FormControl type="text" name="alamat" />
+                <Form.Label>Alamat:</Form.Label>
+                <FormControl type="text" name="id" />
               </Modal.Body>
               <Modal.Footer>
                 <Button variant="success" type="submit" onClick={() => this.bukaModal(false)}>
@@ -135,7 +146,7 @@ class Direct extends Component {
               </Modal.Footer>
             </Form>
           </Modal>
-          <Modal aria-label="PUT" show={this.state.open2} onHide={() => this.bukaModalEdit(false, this.state.index)} size="md" centered>
+          {/*  <Modal aria-label="PUT" show={this.state.open2} onHide={() => this.bukaModalEdit(false, this.state.index)} size="md" centered>
             <Form onSubmit={(e) => this.putUpdate(e, this.state.users[this.state.index].id)}>
               <Modal.Header closeButton>
                 <Modal.Title id="contained-modal-title-vcenter">Edit info User</Modal.Title>
@@ -159,7 +170,7 @@ class Direct extends Component {
                 </Button>
               </Modal.Footer>
             </Form>
-          </Modal>
+          </Modal> */}
         </Container>
       </Container>
     );
