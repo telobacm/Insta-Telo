@@ -17,13 +17,19 @@ class Direct extends Component {
   };
 
   geni = async () => {
-    await axios.get(API_URL + "/users").then((res) => {
-      const users = res.data.users;
-      this.setState({ users });
+    await axios.get(API_URL).then((res) => {
+      console.log("oy oy oy", res.data);
+      this.setState({ users: res.data });
     });
   };
   componentDidMount() {
-    this.geni();
+    // this.geni();
+    console.log("did mon");
+    axios.get(API_URL).then((res) => {
+      // const users = res.data;
+      this.setState({ users: res.data });
+      // console.log("oy oy oy", res.data);
+    });
   }
 
   createPost = (e) => {
@@ -35,7 +41,7 @@ class Direct extends Component {
       alamat: alamat.value,
       id: id.value,
     };
-    axios.post(API_URL + "/users", data).then(this.geni);
+    axios.post(API_URL, data).then(this.geni);
   };
 
   putUpdate = (e, id) => {
@@ -62,7 +68,7 @@ class Direct extends Component {
   bukaModalEdit = (param, index) => {
     this.setState({ open2: param });
     this.setState({ index: index });
-    console.log(this.state.index);
+    // console.log(this.state.index);
   };
 
   axiosDelete = (id) => {
@@ -71,8 +77,8 @@ class Direct extends Component {
   };
 
   render() {
-    // const isian = this.state.users[this.state.index];
-    // console.log(isian);
+    const isian = this.state.users[this.state.index];
+    // console.log(this.state.users);
     return (
       <Container fluid className="mepet">
         <NavBar {...this.props} />
@@ -101,16 +107,16 @@ class Direct extends Component {
                     {i + 1}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {this.state.users !== [] ? item.nama : ""}
+                    {item.nama}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {this.state.users !== [] ? item.email : ""}
+                    {item.email}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {this.state.users !== [] ? item.alamat : ""}
+                    {item.alamat}
                   </td>
                   <td style={{ verticalAlign: "middle" }} onClick={() => this.bukaModalEdit(true, i)}>
-                    {this.state.users !== [] ? item.id : ""}
+                    {item.id}
                   </td>
                   <td style={{ textAlign: "center" }}>
                     <Button variant="danger" onClick={() => this.axiosDelete(item.id)}>
@@ -133,8 +139,6 @@ class Direct extends Component {
                 <FormControl type="text" name="email" />
                 <Form.Label>Alamat:</Form.Label>
                 <FormControl type="text" name="alamat" />
-                <Form.Label>Alamat:</Form.Label>
-                <FormControl type="text" name="id" />
               </Modal.Body>
               <Modal.Footer>
                 <Button variant="success" type="submit" onClick={() => this.bukaModal(false)}>
@@ -146,7 +150,7 @@ class Direct extends Component {
               </Modal.Footer>
             </Form>
           </Modal>
-          {/*  <Modal aria-label="PUT" show={this.state.open2} onHide={() => this.bukaModalEdit(false, this.state.index)} size="md" centered>
+          <Modal aria-label="PUT" show={this.state.open2} onHide={() => this.bukaModalEdit(false, this.state.index)} size="md" centered>
             <Form onSubmit={(e) => this.putUpdate(e, this.state.users[this.state.index].id)}>
               <Modal.Header closeButton>
                 <Modal.Title id="contained-modal-title-vcenter">Edit info User</Modal.Title>
@@ -157,7 +161,7 @@ class Direct extends Component {
                 <Form.Label>Nama:</Form.Label>
                 <FormControl type="text" defaultValue={isian !== undefined ? isian.nama : ""} name="nama" />
                 <Form.Label>Email:</Form.Label>
-                {<FormControl type="email" defaultValue={isian !== undefined ? isian.email : ""} name="email" />}
+                <FormControl type="email" defaultValue={isian !== undefined ? isian.email : ""} name="email" />
                 <Form.Label>Alamat:</Form.Label>
                 <FormControl type="text" defaultValue={isian !== undefined ? isian.alamat : ""} name="alamat" />
               </Modal.Body>
@@ -170,7 +174,7 @@ class Direct extends Component {
                 </Button>
               </Modal.Footer>
             </Form>
-          </Modal> */}
+          </Modal>
         </Container>
       </Container>
     );
