@@ -18,7 +18,7 @@ class Direct extends Component {
 
   geni = async () => {
     await axios.get(API_URL).then((res) => {
-      console.log("oy oy oy", res.data);
+      // console.log("oy oy oy", res.data);
       this.setState({ users: res.data });
     });
   };
@@ -26,9 +26,7 @@ class Direct extends Component {
     // this.geni();
     console.log("did mon");
     axios.get(API_URL).then((res) => {
-      // const users = res.data;
       this.setState({ users: res.data });
-      // console.log("oy oy oy", res.data);
     });
   }
 
@@ -51,15 +49,15 @@ class Direct extends Component {
       nama: e.target.nama.value,
       email: e.target.email.value,
       alamat: e.target.alamat.value,
-      putId: 1,
     };
-    axios.put(API_URL + "/users/" + id, data).then(this.geni);
+    axios.put(API_URL + "/" + id, data).then(this.geni);
     this.setState({ open2: false });
   };
 
-  componentDidUpdate() {
-    // console.log(this.state.users);
-  }
+  axiosDelete = (id) => {
+    // console.log(id);
+    axios.delete(API_URL + "/" + id).then(this.geni);
+  };
 
   bukaModal = (open) => {
     this.setState({ open });
@@ -68,12 +66,6 @@ class Direct extends Component {
   bukaModalEdit = (param, index) => {
     this.setState({ open2: param });
     this.setState({ index: index });
-    // console.log(this.state.index);
-  };
-
-  axiosDelete = (id) => {
-    // console.log(id);
-    axios.delete(API_URL + "/users/" + id).then(this.geni);
   };
 
   render() {
