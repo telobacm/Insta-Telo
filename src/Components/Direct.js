@@ -16,18 +16,21 @@ class Direct extends Component {
     id: undefined,
   };
 
-  geni = async () => {
-    await axios.get(API_URL).then((res) => {
-      // console.log("oy oy oy", res.data);
-      this.setState({ users: res.data });
-    });
+  geni = () => {
+    axios
+      .get(API_URL + "/users")
+      .then((res) => {
+        res.data !== "tabel tidak ditemukan" && this.setState({ users: res.data });
+        console.log();
+      })
+      .catch((error) => {
+        console.log(error.response);
+        alert(error.response.data);
+      });
   };
   componentDidMount() {
-    // this.geni();
-    console.log("did mon");
-    axios.get(API_URL).then((res) => {
-      this.setState({ users: res.data });
-    });
+    console.log(API_URL);
+    this.geni();
   }
 
   createPost = (e) => {
@@ -39,7 +42,7 @@ class Direct extends Component {
       alamat: alamat.value,
       id: id.value,
     };
-    axios.post(API_URL, data).then(this.geni);
+    axios.post(API_URL + "/users/", data).then(this.geni);
   };
 
   putUpdate = (e, id) => {
@@ -50,13 +53,13 @@ class Direct extends Component {
       email: e.target.email.value,
       alamat: e.target.alamat.value,
     };
-    axios.put(API_URL + "/" + id, data).then(this.geni);
+    axios.put(API_URL + "/users/" + id, data).then(this.geni);
     this.setState({ open2: false });
   };
 
   axiosDelete = (id) => {
     // console.log(id);
-    axios.delete(API_URL + "/" + id).then(this.geni);
+    axios.delete(API_URL + "/users/" + id).then(this.geni);
   };
 
   bukaModal = (open) => {
